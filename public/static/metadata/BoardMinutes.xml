@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <mods:titleInfo>
+        <mods:title>Richmond College Board of Trustees minutes 1840-1870</mods:title>
+    </mods:titleInfo>
+    <mods:name type="corporate">
+        <mods:namePart>University of Richmond. Board of Trustees</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>issuing body</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart>Allen, Littleberry</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>secretary</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart>Wortham, Charles T.</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>secretary</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart>Murray, John M.</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>secretary</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart>Snead, Jesse</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>signer</mods:roleTerm>
+        </mods:role>
+        <mods:role>
+            <mods:roleTerm>secretary</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart>Crane, James C., 1803-1846</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>signer</mods:roleTerm>
+        </mods:role>
+    </mods:name>    
+    <mods:name type="personal" valueURI="http://id.loc.gov/authorities/names/n93040613">
+        <mods:namePart>Taylor, James B. (James Barnett), 1804-1871</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>secretary</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal" valueURI="http://id.loc.gov/authorities/names/n93040608">
+        <mods:namePart>Ryland, Robert, 1805-1899</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>signer</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart>Spilman, L. R.</mods:namePart>
+        <mods:role>
+            <mods:roleTerm>secretary</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:subject>
+        <mods:name type="corporate" valueURI="http://id.loc.gov/authorities/names/n80106863">
+            <mods:namePart>University of Richmond</mods:namePart>
+        </mods:name>
+        <mods:topic valueURI="http://id.loc.gov/authorities/subjects/sh99005024">History</mods:topic>
+    </mods:subject>
+    <mods:subject valueURI="http://id.loc.gov/authorities/subjects/sh85028397">
+        <mods:topic>College trustees</mods:topic>
+    </mods:subject>
+    <mods:subject valueURI="http://id.loc.gov/authorities/subjects/sh95004598">
+        <mods:topic>Education, Higher</mods:topic>
+        <mods:topic>Finance</mods:topic>
+    </mods:subject>
+    <mods:subject>
+        <mods:genre valueURI="http://id.loc.gov/authorities/genreForms/gf2014026128">Minutes (Records)</mods:genre>
+    </mods:subject>
+    <mods:subject authority="lcgft">
+        <mods:genre valueURI="
+            http://id.loc.gov/authorities/genreForms/gf2011026119">Charters and articles of incorporation</mods:genre>
+    </mods:subject>
+    <!--   <mods:subject>
+      <mods:temporal encoding="w3cdtf" point="start">1840-03-04</mods:temporal>
+      <mods:temporal encoding="w3cdtf" point="end">1870-07-01</mods:temporal>
+   </mods:subject>  -->
+    <mods:originInfo>
+        <mods:publisher>Boatwright Memorial Library</mods:publisher>
+        <mods:place>
+            <mods:placeTerm type="text">University of Richmond, Virginia</mods:placeTerm>
+            <mods:placeTerm type="code" authority="marccountry">vau</mods:placeTerm>
+        </mods:place>
+        <mods:dateIssued>1870-07-01</mods:dateIssued>
+    </mods:originInfo>
+    <mods:note>Includes index.</mods:note>
+    <mods:tableOfContents>Charter of Richmond College -- By laws -- Minutes -- Honorary degrees -- Graduates -- Names of trustees -- Index.</mods:tableOfContents>
+    <mods:physicalDescription>
+        <mods:extent>1 online resource (237 pages)</mods:extent>
+        <mods:note>Original: 1 volume (378 numbered pages, 63 unnumbered pages)</mods:note>
+        <mods:internetMediaType>application/pdf</mods:internetMediaType>
+    </mods:physicalDescription>
+    <mods:location>
+        <mods:physicalLocation>Virginia Baptist Historical Society, Trustees Records, Unbound Reports, and Correspondance Collection</mods:physicalLocation>
+    </mods:location>
+    <mods:accessCondition>Digital materials included in collections provided by the library are
+        generally open to the public, but are intended for educational and research purposes only.
+        Any other use, including but not limited to reproduction, redistribution, publication, or
+        transmission, is prohibited without specific written consent.</mods:accessCondition>
+    <mods:note type="content">The Ryland Records contain documents that reference the enslaved persons President Ryland put to work on campus during his time as president of the college. For more information, visit the University of Richmond's Equity and Inclusive History page at  https://equity.richmond.edu/inclusive-history/ryland/index.html</mods:note>
+</mods:mods>

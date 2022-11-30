@@ -1,0 +1,64 @@
+{
+  "name": "sailaway",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/sailaway",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "d3": "^7.6.1",
+    "leaflet": "^1.8.0",
+    "node-sass": "^7.0.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-leaflet": "^4.0.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4",
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "start2": "react-scripts start",
+    "start": "react-app-rewired start",
+    "buildOld": "react-scripts build",
+    "build": "react-app-rewired build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "sass": "sass src/Sass:src/Css --watch --no-source-map",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/d3": "^7.4.0",
+    "@types/react": "^18.0.25",
+    "@types/react-leaflet": "^2.8.2",
+    "@types/react-router": "^5.1.18",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/xml2js": "^0.4.11",
+    "cheerio": "^1.0.0-rc.12",
+    "node-html-parser": "^6.1.0",
+    "react-app-rewired": "^2.2.1",
+    "sass": "^1.54.5",
+    "sharp": "^0.30.7",
+    "timers-browserify": "^2.0.12",
+    "typescript": "^4.6.3"
+  }
+}
