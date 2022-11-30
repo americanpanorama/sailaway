@@ -1,0 +1,39 @@
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+.transcription {
+  line-height: 1.6;
+}
+
+.pencil {
+  color: #888;
+}
+
+.page {
+  margin: 0 5px;
+}
+.page::before{
+  content: '[page ';
+}
+
+.page::after{
+  content: ']';
+}
+
+.later_internal_reference {
+  color: grey;
+  text-align: right;
+}
+
+#bylaws h2, #bylaws h3, #bylaws h4, #bylaws h5 {
+  text-decoration: underline;
+}
+
+#bylaws h5 {
+  text-align: left;
+}
+
+li.first {
+  list-style-type: '1st. ';
+}

@@ -1,0 +1,68 @@
+@import './Variables.scss';
+
+#contactUsForm {
+
+  @extend %intro-copy;
+
+  form {
+    display: grid;
+    grid-template-columns: 100%;
+    row-gap: 20px;
+    column-gap: 20px;
+
+    label {
+      margin-bottom: -10px;
+    }
+
+    textarea {
+      height: 200px;
+    }
+
+    input,
+    textarea {
+      padding: 0.5rem;
+      background-color: rgba(255,255,255,0.6);
+      border: 1px solid $color-border;
+      outline: none;
+
+      &:focus {
+        background-color: rgba(255,255,255,1);
+        border-color: transparent;
+        box-shadow: 0 0 8px 2px $color-interactive-light;
+      }
+    }
+
+    input[type='submit'] {
+      // grid-column: 2 / span 1;
+      padding: 0.75rem;
+      color: $color-text-invert;
+      font-weight: 600;
+      background-color: $color-interactive;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: $color-interactive-hover;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 600px) {
+
+  #contactUsForm {
+
+    form {
+      grid-template-columns: 100px auto;
+
+      label {
+        text-align: right;
+      }
+
+      input[type='submit'] {
+        grid-column: 2 / span 1;
+      }
+    }
+  }
+}

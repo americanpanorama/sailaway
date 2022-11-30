@@ -1,0 +1,3435 @@
+[
+  {
+    "id": "BoardMinutes",
+    "year": 1840,
+    "month": 3,
+    "day": 4,
+    "title": "Minutes of the Board of Trustees, 1840-1870",
+    "images": [
+      "RC-Trustees-V1-1840-1870-i",
+      "RC-Trustees-V1-1840-1870-iii",
+      "RC-Trustees-V1-1840-1870-0002",
+      "RC-Trustees-V1-1840-1870-0004",
+      "RC-Trustees-V1-1840-1870-0006",
+      "RC-Trustees-V1-1840-1870-0008",
+      "RC-Trustees-V1-1840-1870-0010",
+      "RC-Trustees-V1-1840-1870-0012",
+      "RC-Trustees-V1-1840-1870-0014",
+      "RC-Trustees-V1-1840-1870-0016",
+      "RC-Trustees-V1-1840-1870-0018",
+      "RC-Trustees-V1-1840-1870-0020",
+      "RC-Trustees-V1-1840-1870-0022",
+      "RC-Trustees-V1-1840-1870-0024",
+      "RC-Trustees-V1-1840-1870-0026",
+      "RC-Trustees-V1-1840-1870-0028",
+      "RC-Trustees-V1-1840-1870-0030",
+      "RC-Trustees-V1-1840-1870-0032",
+      "RC-Trustees-V1-1840-1870-0034",
+      "RC-Trustees-V1-1840-1870-0036",
+      "RC-Trustees-V1-1840-1870-0038",
+      "RC-Trustees-V1-1840-1870-0040",
+      "RC-Trustees-V1-1840-1870-0042",
+      "RC-Trustees-V1-1840-1870-0044",
+      "RC-Trustees-V1-1840-1870-0046",
+      "RC-Trustees-V1-1840-1870-0048",
+      "RC-Trustees-V1-1840-1870-0050",
+      "RC-Trustees-V1-1840-1870-0052",
+      "RC-Trustees-V1-1840-1870-0054",
+      "RC-Trustees-V1-1840-1870-0056",
+      "RC-Trustees-V1-1840-1870-0058",
+      "RC-Trustees-V1-1840-1870-0060",
+      "RC-Trustees-V1-1840-1870-0062",
+      "RC-Trustees-V1-1840-1870-0064",
+      "RC-Trustees-V1-1840-1870-0066",
+      "RC-Trustees-V1-1840-1870-0068",
+      "RC-Trustees-V1-1840-1870-0070",
+      "RC-Trustees-V1-1840-1870-0072",
+      "RC-Trustees-V1-1840-1870-0074",
+      "RC-Trustees-V1-1840-1870-0076",
+      "RC-Trustees-V1-1840-1870-0078",
+      "RC-Trustees-V1-1840-1870-0080",
+      "RC-Trustees-V1-1840-1870-0082",
+      "RC-Trustees-V1-1840-1870-0084",
+      "RC-Trustees-V1-1840-1870-0086",
+      "RC-Trustees-V1-1840-1870-0088",
+      "RC-Trustees-V1-1840-1870-0090",
+      "RC-Trustees-V1-1840-1870-0092",
+      "RC-Trustees-V1-1840-1870-0094",
+      "RC-Trustees-V1-1840-1870-0096",
+      "RC-Trustees-V1-1840-1870-0098",
+      "RC-Trustees-V1-1840-1870-0100",
+      "RC-Trustees-V1-1840-1870-0102",
+      "RC-Trustees-V1-1840-1870-0104",
+      "RC-Trustees-V1-1840-1870-0106",
+      "RC-Trustees-V1-1840-1870-0108",
+      "RC-Trustees-V1-1840-1870-0110",
+      "RC-Trustees-V1-1840-1870-0112",
+      "RC-Trustees-V1-1840-1870-0114",
+      "RC-Trustees-V1-1840-1870-0116",
+      "RC-Trustees-V1-1840-1870-0118",
+      "RC-Trustees-V1-1840-1870-0120",
+      "RC-Trustees-V1-1840-1870-0122",
+      "RC-Trustees-V1-1840-1870-0124",
+      "RC-Trustees-V1-1840-1870-0126a",
+      "RC-Trustees-V1-1840-1870-0126b",
+      "RC-Trustees-V1-1840-1870-0128",
+      "RC-Trustees-V1-1840-1870-0130",
+      "RC-Trustees-V1-1840-1870-0132",
+      "RC-Trustees-V1-1840-1870-0134",
+      "RC-Trustees-V1-1840-1870-0136",
+      "RC-Trustees-V1-1840-1870-0138",
+      "RC-Trustees-V1-1840-1870-0140",
+      "RC-Trustees-V1-1840-1870-0142",
+      "RC-Trustees-V1-1840-1870-0144",
+      "RC-Trustees-V1-1840-1870-0146",
+      "RC-Trustees-V1-1840-1870-0148",
+      "RC-Trustees-V1-1840-1870-0150a",
+      "RC-Trustees-V1-1840-1870-0150b",
+      "RC-Trustees-V1-1840-1870-0152",
+      "RC-Trustees-V1-1840-1870-0154",
+      "RC-Trustees-V1-1840-1870-0156",
+      "RC-Trustees-V1-1840-1870-0158",
+      "RC-Trustees-V1-1840-1870-0160",
+      "RC-Trustees-V1-1840-1870-0162",
+      "RC-Trustees-V1-1840-1870-0164",
+      "RC-Trustees-V1-1840-1870-0166",
+      "RC-Trustees-V1-1840-1870-0168",
+      "RC-Trustees-V1-1840-1870-0170",
+      "RC-Trustees-V1-1840-1870-0172",
+      "RC-Trustees-V1-1840-1870-0174",
+      "RC-Trustees-V1-1840-1870-0176",
+      "RC-Trustees-V1-1840-1870-0178",
+      "RC-Trustees-V1-1840-1870-0180",
+      "RC-Trustees-V1-1840-1870-0182",
+      "RC-Trustees-V1-1840-1870-0184",
+      "RC-Trustees-V1-1840-1870-0186",
+      "RC-Trustees-V1-1840-1870-0188",
+      "RC-Trustees-V1-1840-1870-0190",
+      "RC-Trustees-V1-1840-1870-0192",
+      "RC-Trustees-V1-1840-1870-0194",
+      "RC-Trustees-V1-1840-1870-0196",
+      "RC-Trustees-V1-1840-1870-0198",
+      "RC-Trustees-V1-1840-1870-0200",
+      "RC-Trustees-V1-1840-1870-0202",
+      "RC-Trustees-V1-1840-1870-0204",
+      "RC-Trustees-V1-1840-1870-0206",
+      "RC-Trustees-V1-1840-1870-0208",
+      "RC-Trustees-V1-1840-1870-0210",
+      "RC-Trustees-V1-1840-1870-0212",
+      "RC-Trustees-V1-1840-1870-0214",
+      "RC-Trustees-V1-1840-1870-0216",
+      "RC-Trustees-V1-1840-1870-0218",
+      "RC-Trustees-V1-1840-1870-0220",
+      "RC-Trustees-V1-1840-1870-0222",
+      "RC-Trustees-V1-1840-1870-0224",
+      "RC-Trustees-V1-1840-1870-0226",
+      "RC-Trustees-V1-1840-1870-0228",
+      "RC-Trustees-V1-1840-1870-0230",
+      "RC-Trustees-V1-1840-1870-0232",
+      "RC-Trustees-V1-1840-1870-0234",
+      "RC-Trustees-V1-1840-1870-0236",
+      "RC-Trustees-V1-1840-1870-0238",
+      "RC-Trustees-V1-1840-1870-0240",
+      "RC-Trustees-V1-1840-1870-0242",
+      "RC-Trustees-V1-1840-1870-0243",
+      "RC-Trustees-V1-1840-1870-0245",
+      "RC-Trustees-V1-1840-1870-0247",
+      "RC-Trustees-V1-1840-1870-0249",
+      "RC-Trustees-V1-1840-1870-0251",
+      "RC-Trustees-V1-1840-1870-0253",
+      "RC-Trustees-V1-1840-1870-0255",
+      "RC-Trustees-V1-1840-1870-0257",
+      "RC-Trustees-V1-1840-1870-0259",
+      "RC-Trustees-V1-1840-1870-0261",
+      "RC-Trustees-V1-1840-1870-0263",
+      "RC-Trustees-V1-1840-1870-0265",
+      "RC-Trustees-V1-1840-1870-0267",
+      "RC-Trustees-V1-1840-1870-0269",
+      "RC-Trustees-V1-1840-1870-0271",
+      "RC-Trustees-V1-1840-1870-0273",
+      "RC-Trustees-V1-1840-1870-0275",
+      "RC-Trustees-V1-1840-1870-0277",
+      "RC-Trustees-V1-1840-1870-0279",
+      "RC-Trustees-V1-1840-1870-0281",
+      "RC-Trustees-V1-1840-1870-0283",
+      "RC-Trustees-V1-1840-1870-0285",
+      "RC-Trustees-V1-1840-1870-0287",
+      "RC-Trustees-V1-1840-1870-0289",
+      "RC-Trustees-V1-1840-1870-0291",
+      "RC-Trustees-V1-1840-1870-0293",
+      "RC-Trustees-V1-1840-1870-0295",
+      "RC-Trustees-V1-1840-1870-0297",
+      "RC-Trustees-V1-1840-1870-0298",
+      "RC-Trustees-V1-1840-1870-0300",
+      "RC-Trustees-V1-1840-1870-0302",
+      "RC-Trustees-V1-1840-1870-0304",
+      "RC-Trustees-V1-1840-1870-0306",
+      "RC-Trustees-V1-1840-1870-0308",
+      "RC-Trustees-V1-1840-1870-0310",
+      "RC-Trustees-V1-1840-1870-0312",
+      "RC-Trustees-V1-1840-1870-0314",
+      "RC-Trustees-V1-1840-1870-0316",
+      "RC-Trustees-V1-1840-1870-0318",
+      "RC-Trustees-V1-1840-1870-0320",
+      "RC-Trustees-V1-1840-1870-0322",
+      "RC-Trustees-V1-1840-1870-0324",
+      "RC-Trustees-V1-1840-1870-0326",
+      "RC-Trustees-V1-1840-1870-0328",
+      "RC-Trustees-V1-1840-1870-0330",
+      "RC-Trustees-V1-1840-1870-0332",
+      "RC-Trustees-V1-1840-1870-0334",
+      "RC-Trustees-V1-1840-1870-0336",
+      "RC-Trustees-V1-1840-1870-0338",
+      "RC-Trustees-V1-1840-1870-0340",
+      "RC-Trustees-V1-1840-1870-0342",
+      "RC-Trustees-V1-1840-1870-0344",
+      "RC-Trustees-V1-1840-1870-0346",
+      "RC-Trustees-V1-1840-1870-0348",
+      "RC-Trustees-V1-1840-1870-0350",
+      "RC-Trustees-V1-1840-1870-0352",
+      "RC-Trustees-V1-1840-1870-0354",
+      "RC-Trustees-V1-1840-1870-0356",
+      "RC-Trustees-V1-1840-1870-0358",
+      "RC-Trustees-V1-1840-1870-0360",
+      "RC-Trustees-V1-1840-1870-0362",
+      "RC-Trustees-V1-1840-1870-0364",
+      "RC-Trustees-V1-1840-1870-0366",
+      "RC-Trustees-V1-1840-1870-0368",
+      "RC-Trustees-V1-1840-1870-0370a",
+      "RC-Trustees-V1-1840-1870-0370b",
+      "RC-Trustees-V1-1840-1870-0372",
+      "RC-Trustees-V1-1840-1870-0374",
+      "RC-Trustees-V1-1840-1870-0376",
+      "RC-Trustees-V1-1840-1870-0378",
+      "RC-Trustees-V1-1840-1870-0380",
+      "RC-Trustees-V1-1840-1870-0382",
+      "RC-Trustees-V1-1840-1870-0384",
+      "RC-Trustees-V1-1840-1870-0386",
+      "RC-Trustees-V1-1840-1870-0388",
+      "RC-Trustees-V1-1840-1870-0390",
+      "RC-Trustees-V1-1840-1870-0392",
+      "RC-Trustees-V1-1840-1870-0394",
+      "RC-Trustees-V1-1840-1870-0396",
+      "RC-Trustees-V1-1840-1870-0398",
+      "RC-Trustees-V1-1840-1870-0400",
+      "RC-Trustees-V1-1840-1870-0402",
+      "RC-Trustees-V1-1840-1870-0404",
+      "RC-Trustees-V1-1840-1870-0406",
+      "RC-Trustees-V1-1840-1870-0408",
+      "RC-Trustees-V1-1840-1870-0410",
+      "RC-Trustees-V1-1840-1870-0412",
+      "RC-Trustees-V1-1840-1870-0414",
+      "RC-Trustees-V1-1840-1870-0416",
+      "RC-Trustees-V1-1840-1870-0418",
+      "RC-Trustees-V1-1840-1870-0420",
+      "RC-Trustees-V1-1840-1870-0422",
+      "RC-Trustees-V1-1840-1870-0424",
+      "RC-Trustees-V1-1840-1870-0426",
+      "RC-Trustees-V1-1840-1870-0428",
+      "RC-Trustees-V1-1840-1870-0430",
+      "RC-Trustees-V1-1840-1870-0432",
+      "RC-Trustees-V1-1840-1870-0434",
+      "RC-Trustees-V1-1840-1870-0436",
+      "RC-Trustees-V1-1840-1870-0438",
+      "RC-Trustees-V1-1840-1870-0440",
+      "RC-Trustees-V1-1840-1870-0442",
+      "RC-Trustees-V1-1840-1870-0444",
+      "RC-Trustees-V1-1840-1870-0446",
+      "RC-Trustees-V1-1840-1870-0448",
+      "RC-Trustees-V1-1840-1870-0450",
+      "RC-Trustees-V1-1840-1870-0454",
+      "RC-Trustees-V1-1840-1870-0456"
+    ],
+    "bookmarks": [
+      {
+        "year": 1840,
+        "month": 3,
+        "day": 4,
+        "title": "Charter of Richmond College",
+        "images": ["RC-Trustees-V1-1840-1870-iii"]
+      },
+      {
+        "year": 1853,
+        "month": 6,
+        "day": 30,
+        "title": "By Laws, Amended",
+        "images": ["RC-Trustees-V1-1840-1870-0004"]
+      },
+      {
+        "year": 1841,
+        "month": 2,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0008"]
+      },
+      {
+        "year": 1841,
+        "month": 6,
+        "day": 8,
+        "title": "First Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0010"]
+      },
+      {
+        "year": 1841,
+        "month": 7,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0012"]
+      },
+      {
+        "year": 1841,
+        "month": 7,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0012"]
+      },
+      {
+        "year": 1841,
+        "month": 7,
+        "day": 12,
+        "title": "By Laws",
+        "images": ["RC-Trustees-V1-1840-1870-0012"]
+      },
+      {
+        "year": 1842,
+        "month": 3,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0016"]
+      },
+      {
+        "year": 1842,
+        "month": 6,
+        "day": 7,
+        "title": "Second Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0016"]
+      },
+      {
+        "year": 1842,
+        "month": 7,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0018"]
+      },
+      {
+        "year": 1842,
+        "month": 12,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0018"]
+      },
+      {
+        "year": 1842,
+        "month": 12,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0020"]
+      },
+      {
+        "year": 1842,
+        "month": 12,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0020"]
+      },
+      {
+        "year": 1843,
+        "month": 3,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0022"]
+      },
+      {
+        "year": 1843,
+        "month": 6,
+        "day": 6,
+        "title": "Third Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0022"]
+      },
+      {
+        "year": 1843,
+        "month": 6,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0024"]
+      },
+      {
+        "year": 1843,
+        "month": 9,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0026"]
+      },
+      {
+        "year": 1843,
+        "month": 9,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0026"]
+      },
+      {
+        "year": 1843,
+        "month": 9,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0026"]
+      },
+      {
+        "year": 1843,
+        "month": 12,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0028"]
+      },
+      {
+        "year": 1843,
+        "month": 12,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0028"]
+      },
+      {
+        "year": 1843,
+        "month": 12,
+        "day": 14,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0030"]
+      },
+      {
+        "year": 1843,
+        "month": 12,
+        "day": 14,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0030"]
+      },
+      {
+        "year": 1843,
+        "month": 12,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0030"]
+      },
+      {
+        "year": 1843,
+        "month": 12,
+        "day": 25,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0032"]
+      },
+      {
+        "year": 1844,
+        "month": 1,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0032"]
+      },
+      {
+        "year": 1844,
+        "month": 1,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0034"]
+      },
+      {
+        "year": 1844,
+        "month": 3,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0034"]
+      },
+      {
+        "year": 1844,
+        "month": 6,
+        "day": 4,
+        "title": "Fourth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0036"]
+      },
+      {
+        "year": 1844,
+        "month": 7,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0038"]
+      },
+      {
+        "year": 1844,
+        "month": 7,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0040"]
+      },
+      {
+        "year": 1844,
+        "month": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0040"]
+      },
+      {
+        "year": 1845,
+        "month": 3,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0042"]
+      },
+      {
+        "year": 1845,
+        "month": 6,
+        "day": 3,
+        "title": "Fifth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0042"]
+      },
+      {
+        "year": 1845,
+        "month": 7,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0044"]
+      },
+      {
+        "year": 1845,
+        "month": 7,
+        "day": 29,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0044"]
+      },
+      {
+        "year": 1845,
+        "month": 8,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0046"]
+      },
+      {
+        "year": 1845,
+        "month": 9,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0046"]
+      },
+      {
+        "year": 1845,
+        "month": 9,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0048"]
+      },
+      {
+        "year": 1845,
+        "month": 9,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0050"]
+      },
+      {
+        "year": 1845,
+        "month": 10,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0050"]
+      },
+      {
+        "year": 1845,
+        "month": 11,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0052"]
+      },
+      {
+        "year": 1845,
+        "month": 12,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0054"]
+      },
+      {
+        "year": 1845,
+        "month": 12,
+        "day": 3,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0054"]
+      },
+      {
+        "year": 1845,
+        "month": 12,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0056"]
+      },
+      {
+        "year": 1846,
+        "month": 1,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0056"]
+      },
+      {
+        "year": 1846,
+        "month": 5,
+        "day": 29,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0056"]
+      },
+      {
+        "year": 1846,
+        "month": 6,
+        "day": 9,
+        "title": "Sixth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0058"]
+      },
+      {
+        "year": 1846,
+        "month": 6,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0060"]
+      },
+      {
+        "year": 1846,
+        "month": 6,
+        "day": 29,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0060"]
+      },
+      {
+        "year": 1846,
+        "month": 7,
+        "day": 31,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0062"]
+      },
+      {
+        "year": 1846,
+        "month": 12,
+        "day": 8,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0062"]
+      },
+      {
+        "year": 1846,
+        "month": 12,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0064"]
+      },
+      {
+        "year": 1846,
+        "month": 12,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0064"]
+      },
+      {
+        "year": 1847,
+        "month": 3,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0064"]
+      },
+      {
+        "year": 1847,
+        "month": 6,
+        "day": 8,
+        "title": "Seventh Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0066"]
+      },
+      {
+        "year": 1847,
+        "month": 6,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0068"]
+      },
+      {
+        "year": 1847,
+        "month": 7,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0068"]
+      },
+      {
+        "year": 1847,
+        "month": 7,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0070"]
+      },
+      {
+        "year": 1848,
+        "month": 12,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0070"]
+      },
+      {
+        "year": 1848,
+        "month": 5,
+        "day": 30,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0072"]
+      },
+      {
+        "year": 1848,
+        "month": 6,
+        "day": 6,
+        "title": "Eighth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0072"]
+      },
+      {
+        "year": 1848,
+        "month": 6,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0074"]
+      },
+      {
+        "year": 1848,
+        "month": 6,
+        "day": 21,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0074"]
+      },
+      {
+        "year": 1848,
+        "month": 8,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0076"]
+      },
+      {
+        "year": 1848,
+        "month": 12,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0076"]
+      },
+      {
+        "year": 1849,
+        "month": 3,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0078"]
+      },
+      {
+        "year": 1849,
+        "month": 3,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0078"]
+      },
+      {
+        "year": 1849,
+        "month": 6,
+        "day": 14,
+        "title": "Ninth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0080"]
+      },
+      {
+        "year": 1849,
+        "month": 7,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0082"]
+      },
+      {
+        "year": 1849,
+        "month": 12,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0082"]
+      },
+      {
+        "year": 1849,
+        "month": 12,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0084"]
+      },
+      {
+        "year": 1849,
+        "month": 12,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0084"]
+      },
+      {
+        "year": 1850,
+        "month": 1,
+        "day": 21,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0084"]
+      },
+      {
+        "year": 1850,
+        "month": 6,
+        "day": 21,
+        "title": "Tenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0086"]
+      },
+      {
+        "year": 1850,
+        "month": 6,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0086"]
+      },
+      {
+        "year": 1850,
+        "month": 6,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0086"]
+      },
+      {
+        "year": 1850,
+        "month": 7,
+        "day": 22,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0088"]
+      },
+      {
+        "year": 1850,
+        "month": 12,
+        "day": 3,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0088"]
+      },
+      {
+        "year": 1851,
+        "month": 3,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0090"]
+      },
+      {
+        "year": 1851,
+        "month": 4,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0090"]
+      },
+      {
+        "year": 1851,
+        "month": 6,
+        "day": 3,
+        "title": "Eleventh Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0092"]
+      },
+      {
+        "year": 1851,
+        "month": 6,
+        "day": 21,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0094"]
+      },
+      {
+        "year": 1851,
+        "month": 7,
+        "day": 7,
+        "title": "Eleventh Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0094"]
+      },
+      {
+        "year": 1851,
+        "month": 8,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0096"]
+      },
+      {
+        "year": 1851,
+        "month": 8,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0096"]
+      },
+      {
+        "year": 1851,
+        "month": 12,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0100"]
+      },
+      {
+        "year": 1852,
+        "month": 3,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0100"]
+      },
+      {
+        "year": 1852,
+        "month": 6,
+        "day": 10,
+        "title": "Twelfth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0104"]
+      },
+      {
+        "year": 1852,
+        "month": 6,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0106"]
+      },
+      {
+        "year": 1852,
+        "month": 6,
+        "day": 19,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0110"]
+      },
+      {
+        "year": 1852,
+        "month": 6,
+        "day": 23,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0110"]
+      },
+      {
+        "year": 1852,
+        "month": 7,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0112"]
+      },
+      {
+        "year": 1852,
+        "month": 7,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0114"]
+      },
+      {
+        "year": 1852,
+        "month": 12,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0114"]
+      },
+      {
+        "year": 1853,
+        "month": 3,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0116"]
+      },
+      {
+        "year": 1853,
+        "month": 3,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0120"]
+      },
+      {
+        "year": 1853,
+        "month": 3,
+        "day": 18,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0120"]
+      },
+      {
+        "year": 1853,
+        "month": 3,
+        "day": 21,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0122"]
+      },
+      {
+        "year": 1853,
+        "month": 3,
+        "day": 23,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0122"]
+      },
+      {
+        "year": 1853,
+        "month": 6,
+        "day": 8,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0122"]
+      },
+      {
+        "year": 1853,
+        "month": 6,
+        "day": 29,
+        "title": "Thirteenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0126a"]
+      },
+      {
+        "year": 1853,
+        "month": 6,
+        "day": 30,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0126a"]
+      },
+      {
+        "year": 1853,
+        "month": 8,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0128"]
+      },
+      {
+        "year": 1853,
+        "month": 12,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0130"]
+      },
+      {
+        "year": 1853,
+        "month": 12,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0130"]
+      },
+      {
+        "year": 1854,
+        "month": 1,
+        "day": 23,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0132"]
+      },
+      {
+        "year": 1854,
+        "month": 3,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0134"]
+      },
+      {
+        "year": 1854,
+        "month": 6,
+        "day": 13,
+        "title": "Fourteenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0134"]
+      },
+      {
+        "year": 1854,
+        "month": 6,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0138"]
+      },
+      {
+        "year": 1854,
+        "month": 6,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0140"]
+      },
+      {
+        "year": 1854,
+        "month": 9,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0140"]
+      },
+      {
+        "year": 1854,
+        "month": 10,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0140"]
+      },
+      {
+        "year": 1854,
+        "month": 10,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0142"]
+      },
+      {
+        "year": 1854,
+        "month": 7,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0144"]
+      },
+      {
+        "year": 1854,
+        "month": 12,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0144"]
+      },
+      {
+        "year": 1854,
+        "month": 12,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0146"]
+      },
+      {
+        "year": 1855,
+        "month": 1,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0148"]
+      },
+      {
+        "year": 1855,
+        "month": 2,
+        "day": 3,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0148"]
+      },
+      {
+        "year": 1855,
+        "month": 2,
+        "day": 19,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0150a"]
+      },
+      {
+        "year": 1855,
+        "month": 4,
+        "day": 3,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0150a"]
+      },
+      {
+        "year": 1855,
+        "month": 4,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0150b"]
+      },
+      {
+        "year": 1855,
+        "month": 4,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0152"]
+      },
+      {
+        "year": 1855,
+        "month": 5,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0154"]
+      },
+      {
+        "year": 1855,
+        "month": 7,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0156"]
+      },
+      {
+        "year": 1855,
+        "month": 7,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0156"]
+      },
+      {
+        "year": 1855,
+        "month": 6,
+        "day": 19,
+        "title": "Fifteenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0158"]
+      },
+      {
+        "year": 1855,
+        "month": 6,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0160"]
+      },
+      {
+        "year": 1855,
+        "month": 7,
+        "day": 31,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0164"]
+      },
+      {
+        "year": 1855,
+        "month": 9,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0164"]
+      },
+      {
+        "year": 1855,
+        "month": 10,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0166"]
+      },
+      {
+        "year": 1856,
+        "month": 3,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0168"]
+      },
+      {
+        "year": 1856,
+        "month": 6,
+        "day": 17,
+        "title": "Sixteenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0168"]
+      },
+      {
+        "year": 1856,
+        "month": 6,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0172"]
+      },
+      {
+        "year": 1856,
+        "month": 7,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0172"]
+      },
+      {
+        "year": 1856,
+        "month": 7,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0174"]
+      },
+      {
+        "year": 1856,
+        "month": 7,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0176"]
+      },
+      {
+        "year": 1856,
+        "month": 7,
+        "day": 25,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0178"]
+      },
+      {
+        "year": 1856,
+        "month": 11,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0180"]
+      },
+      {
+        "year": 1856,
+        "month": 12,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0182"]
+      },
+      {
+        "year": 1856,
+        "month": 12,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0182"]
+      },
+      {
+        "year": 1857,
+        "month": 6,
+        "day": 9,
+        "title": "Seventeenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0184"]
+      },
+      {
+        "year": 1857,
+        "month": 6,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0188"]
+      },
+      {
+        "year": 1857,
+        "month": 7,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0190"]
+      },
+      {
+        "year": 1857,
+        "month": 6,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0190"]
+      },
+      {
+        "year": 1857,
+        "month": 10,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0194"]
+      },
+       {
+        "year": 1857,
+        "month": 7,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0198"]
+      },
+      {
+        "year": 1857,
+        "month": 7,
+        "day": 31,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0202"]
+      },
+      {
+        "year": 1857,
+        "month": 8,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0202"]
+      },
+      {
+        "year": 1857,
+        "month": 8,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0202"]
+      },
+      {
+        "year": 1857,
+        "month": 9,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0202"]
+      },  
+      {
+        "year": 1857,
+        "month": 9,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0204"]
+      },
+      {
+        "year": 1857,
+        "month": 9,
+        "day": 8,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0204"]
+      },
+      {
+        "year": 1857,
+        "month": 12,
+        "day": 8,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0204"]
+      },
+      {
+        "year": 1857,
+        "month": 12,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0206"]
+      },
+      {
+        "year": 1857,
+        "month": 12,
+        "day": 22,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0210"]
+      },
+      {
+        "year": 1858,
+        "month": 1,
+        "day": 2,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0210"]
+      },
+      {
+        "year": 1858,
+        "month": 1,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0212"]
+      },
+      {
+        "year": 1858,
+        "month": 4,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0212"]
+      },
+      {
+        "year": 1858,
+        "title": "Amended Charter",
+        "images": ["RC-Trustees-V1-1840-1870-0214"]
+      },
+      {
+        "year": 1858,
+        "title": "By Laws",
+        "images": ["RC-Trustees-V1-1840-1870-0216"]
+      },
+      {
+        "year": 1858,
+        "month": 4,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0218"]
+      },
+      {
+        "year": 1858,
+        "month": 6,
+        "day": 15,
+        "title": "Eighteenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0218"]
+      },
+      {
+        "year": 1858,
+        "month": 7,
+        "day": 3,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0222"]
+      },
+      {
+        "year": 1858,
+        "month": 7,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0224"]
+      },
+      {
+        "year": 1858,
+        "month": 7,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0226"]
+      },
+      {
+        "year": 1858,
+        "month": 8,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0226"]
+      },
+      {
+        "year": 1858,
+        "month": 11,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0228"]
+      },
+      {
+        "year": 1858,
+        "month": 9,
+        "day": 25,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0228"]
+      },
+      {
+        "year": 1858,
+        "month": 9,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0228"]
+      },
+      {
+        "year": 1858,
+        "month": 12,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0230"]
+      },
+      {
+        "year": 1859,
+        "month": 2,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0230"]
+      },
+      {
+        "year": 1859,
+        "month": 4,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0234"]
+      },
+      {
+        "year": 1859,
+        "month": 5,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0234"]
+      },
+      {
+        "year": 1859,
+        "month": 6,
+        "day": 7,
+        "title": "Nineteenth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0238"]
+      },
+      {
+        "year": 1859,
+        "month": 6,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0238"]
+      },
+      {
+        "year": 1859,
+        "month": 7,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0240"]
+      },
+      {
+        "year": 1859,
+        "month": 8,
+        "day": 29,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0243"]
+      },
+      {
+        "year": 1859,
+        "month": 9,
+        "day": 19,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0245"]
+      },
+      {
+        "year": 1859,
+        "month": 11,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0245"]
+      },
+      {
+        "year": 1859,
+        "month": 12,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0247"]
+      },
+      {
+        "year": 1860,
+        "month": 1,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0249"]
+      },
+      {
+        "year": 1860,
+        "month": 3,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0251"]
+      },
+      {
+        "year": 1860,
+        "month": 5,
+        "day": 22,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0253"]
+      },
+      {
+        "year": 1860,
+        "month": 6,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0255"]
+      },
+      {
+        "year": 1860,
+        "month": 5,
+        "day": 19,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0257"]
+      },
+      {
+        "year": 1860,
+        "month": 6,
+        "day": 12,
+        "title": "Twentieth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0257"]
+      },
+      {
+        "year": 1860,
+        "month": 7,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0261"]
+      },
+      {
+        "year": 1860,
+        "month": 6,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0263"]
+      },
+      {
+        "year": 1860,
+        "month": 5,
+        "day": 19,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0265"]
+      },
+      {
+        "year": 1860,
+        "month": 12,
+        "day": 11,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0265"]
+      },
+      {
+        "year": 1861,
+        "month": 1,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0267"]
+      },
+      {
+        "year": 1861,
+        "month": 8,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0269"]
+      },
+      {
+        "year": 1862,
+        "month": 11,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0271"]
+      },
+      {
+        "year": 1862,
+        "month": 11,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0273"]
+      },
+      {
+        "year": 1863,
+        "month": 6,
+        "day": 15,
+        "title": "Twenty-Third Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0273"]
+      },
+      {
+        "year": 1863,
+        "month": 10,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0275"]
+      },
+      {
+        "year": 1863,
+        "month": 11,
+        "day": 21,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0277"]
+      },
+      {
+        "year": 1865,
+        "month": 7,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0277"]
+      },
+      {
+        "year": 1866,
+        "month": 3,
+        "day": 26,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0279"]
+      },
+      {
+        "year": 1866,
+        "month": 4,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0279"]
+      },
+      {
+        "year": 1866,
+        "month": 6,
+        "day": 12,
+        "title": "Twenty-Sixth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0281"]
+      },
+      {
+        "year": 1866,
+        "month": 6,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0285"]
+      },
+      {
+        "year": 1866,
+        "month": 7,
+        "day": 5,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0289"]
+      },
+      {
+        "year": 1866,
+        "month": 6,
+        "day": 23,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0291"]
+      },
+      {
+        "year": 1866,
+        "month": 7,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0291"]
+      },
+      {
+        "year": 1866,
+        "month": 8,
+        "day": 4,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0293"]
+      },
+      {
+        "year": 1866,
+        "month": 8,
+        "day": 6,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0295"]
+      },
+      {
+        "year": 1866,
+        "month": 8,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0295"]
+      },
+      {
+        "year": 1866,
+        "month": 8,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0295"]
+      },
+      {
+        "year": 1866,
+        "month": 11,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0297"]
+      },
+      {
+        "year": 1866,
+        "month": 11,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0298"]
+      },
+      {
+        "year": 1866,
+        "month": 12,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0298"]
+      },
+      {
+        "year": 1867,
+        "month": 1,
+        "day": 21,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0300"]
+      },
+      {
+        "year": 1867,
+        "month": 4,
+        "day": 25,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0300"]
+      },
+      {
+        "year": 1867,
+        "month": 6,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0302"]
+      },
+      {
+        "year": 1867,
+        "month": 7,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0304"]
+      },
+      {
+        "year": 1867,
+        "month": 7,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0306"]
+      },
+      {
+        "year": 1867,
+        "month": 9,
+        "day": 23,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0312"]
+      },
+      {
+        "year": 1867,
+        "month": 10,
+        "day": 14,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0314"]
+      },
+      {
+        "year": 1867,
+        "month": 10,
+        "day": 25,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0316"]
+      },
+      {
+        "year": 1867,
+        "month": 11,
+        "day": 9,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0316"]
+      },
+      {
+        "year": 1868,
+        "month": 1,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0318"]
+      },
+      {
+        "year": 1868,
+        "month": 1,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0318"]
+      },
+      {
+        "year": 1868,
+        "month": 4,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0324"]
+      },
+      {
+        "year": 1868,
+        "month": 5,
+        "day": 22,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0326"]
+      },
+      {
+        "year": 1868,
+        "month": 5,
+        "day": 25,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0328"]
+      },
+      {
+        "year": 1868,
+        "month": 5,
+        "day": 28,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0328"]
+      },
+      {
+        "year": 1868,
+        "month": 6,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0328"]
+      },
+      {
+        "year": 1868,
+        "month": 6,
+        "day": 18,
+        "title": "Twenty-Eighth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0330"]
+      },
+      {
+        "year": 1868,
+        "month": 6,
+        "day": 23,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0330"]
+      },
+      {
+        "year": 1868,
+        "month": 6,
+        "day": 30,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0332"]
+      },
+      {
+        "year": 1868,
+        "month": 7,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0338"]
+      },
+      {
+        "year": 1868,
+        "month": 8,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0339"]
+      },
+      {
+        "year": 1868,
+        "month": 12,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0340"]
+      },
+      {
+        "year": 1869,
+        "month": 1,
+        "day": 15,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0340"]
+      },
+      {
+        "year": 1869,
+        "month": 4,
+        "day": 13,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0342"]
+      },
+      {
+        "year": 1869,
+        "month": 4,
+        "day": 20,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0344"]
+      },
+      {
+        "year": 1869,
+        "title": "Meeting",
+        "images": [""]
+      },
+      {
+        "year": 1869,
+        "month": 6,
+        "day": 15,
+        "title": "Twenty-Ninth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0346"]
+      },
+      {
+        "year": 1869,
+        "month": 6,
+        "day": 16,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0348"]
+      },
+      {
+        "year": 1869,
+        "month": 6,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0354"]
+      },
+      {
+        "year": 1869,
+        "month": 6,
+        "day": 30,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0358"]
+      },
+      {
+        "year": 1869,
+        "month": 7,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0360"]
+      },
+      {
+        "year": 1869,
+        "month": 9,
+        "day": 7,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0360"]
+      },
+      {
+        "year": 1869,
+        "month": 9,
+        "day": 27,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0362"]
+      },
+      {
+        "year": 1869,
+        "month": 10,
+        "day": 12,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0362"]
+      },
+      {
+        "year": 1869,
+        "month": 12,
+        "day": 14,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0364"]
+      },
+      {
+        "year": 1870,
+        "month": 3,
+        "day": 10,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0366"]
+      },
+      {
+        "year": 1870,
+        "month": 5,
+        "day": 17,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0370a"]
+      },
+      {
+        "year": 1870,
+        "month": 5,
+        "day": 24,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0372"]
+      },
+      {
+        "year": 1870,
+        "month": 5,
+        "day": 30,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0372"]
+      },
+      {
+        "year": 1870,
+        "month": 6,
+        "day": 25,
+        "title": "Thirtieth Annual Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0374"]
+      },
+      {
+        "year": 1870,
+        "month": 7,
+        "day": 1,
+        "title": "Meeting",
+        "images": ["RC-Trustees-V1-1840-1870-0376"]
+      },
+      {
+        "title": "Honorary Degrees",
+        "images": ["RC-Trustees-V1-1840-1870-0378"]
+      },
+      {
+        "title": "Graduates",
+        "images": ["RC-Trustees-V1-1840-1870-0380"]
+      },
+      {
+        "title": "Trustees",
+        "images": ["RC-Trustees-V1-1840-1870-0384"]
+      },
+      {
+        "title": "Partial Index",
+        "images": ["RC-Trustees-V1-1840-1870-0386"]
+      }
+    ]
+  },
+  {
+    "title": "Typed extract from minutes of first meeting of the Trustees",
+    "day": 11,
+    "month": 2,
+    "year": 1841,
+    "images": ["Trustees-Recs-1841-1850-0001"],
+    "id": "TypedextractfromminutesoffirstmeetingoftheTrustees1841211"
+  },
+  {
+    "title": "Typed extract from minutes of first meeting of the Trustees",
+    "day": 11,
+    "month": 2,
+    "year": 1841,
+    "images": ["Trustees-Recs-1841-1850-0001"],
+    "id": "TypedextractfromminutesoffirstmeetingoftheTrustees1841211"
+  },
+  {
+    "title": "Photocopy of typed extract from first meeting of the Trustees",
+    "day": 11,
+    "month": 2,
+    "year": 1841,
+    "images": ["Trustees-Recs-1841-1850-0002"],
+    "id": "PhotocopyoftypedextractfromfirstmeetingoftheTrustees1841211"
+  },
+  {
+    "title": "Report of System of Instruction, signed J.B. Jeter, A. Judson Crane",
+    "day": 13,
+    "month": 12,
+    "year": 1842,
+    "images": ["Trustees-Recs-1841-1850-0003", "Trustees-Recs-1841-1850-0004"],
+    "id": "ReportofSystemofInstructionsignedJBJeterAJudsonCrane18421213"
+  },
+  {
+    "title": "Quarterly Report of President Ryland and Report on Common Seal",
+    "day": 1,
+    "month": 6,
+    "year": 1843,
+    "images": [
+      "Trustees-Recs-1841-1850-0005",
+      "Trustees-Recs-1841-1850-0006",
+      "Trustees-Recs-1841-1850-0007"
+    ],
+    "id": "QuarterlyReportofPresidentRylandandReportonCommonSeal184361"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 4,
+    "month": 9,
+    "year": 1843,
+    "images": [
+      "Trustees-Recs-1841-1850-0008",
+      "Trustees-Recs-1841-1850-0009",
+      "Trustees-Recs-1841-1850-0010"
+    ],
+    "id": "ReportofPresidentRyland184394"
+  },
+  {
+    "title": "Report of Steward Charles L. Cocke to James B. Taylor",
+    "day": 1,
+    "month": 12,
+    "year": 1843,
+    "images": ["Trustees-Recs-1841-1850-0011", "Trustees-Recs-1841-1850-0012"],
+    "id": "ReportofStewardCharlesLCocketoJamesBTaylor"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 5,
+    "month": 12,
+    "year": 1843,
+    "images": [
+      "Trustees-Recs-1841-1850-0013",
+      "Trustees-Recs-1841-1850-0014",
+      "Trustees-Recs-1841-1850-0015"
+    ],
+    "id": "ReportofPresidentRyland1843125"
+  },
+  {
+    "title": "Eli Ball letter to James B. Taylor, acceptance of agency",
+    "day": 12,
+    "month": 12,
+    "year": 1843,
+    "images": [
+      "Trustees-Recs-1841-1850-0016",
+      "Trustees-Recs-1841-1850-0017",
+      "Trustees-Recs-1841-1850-0018"
+    ],
+    "id": "EliBalllettertoJamesBTayloracceptanceofagency18431212"
+  },
+  {
+    "title": "B.B. Minor to James B. Taylor",
+    "day": 20,
+    "month": 12,
+    "year": 1843,
+    "images": ["Trustees-Recs-1841-1850-0019", "Trustees-Recs-1841-1850-0020"],
+    "id": "BBMinortoJamesBTaylor18431220"
+  },
+  {
+    "title": "Report on Plan of Conducting the College",
+    "day": 20,
+    "month": 6,
+    "year": 1844,
+    "images": [
+      "Trustees-Recs-1841-1850-0021",
+      "Trustees-Recs-1841-1850-0022",
+      "Trustees-Recs-1841-1850-0023"
+    ],
+    "id": "ReportonPlanofConductingtheCollege1844620"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 4,
+    "month": 3,
+    "year": 1844,
+    "images": [
+      "Trustees-Recs-1841-1850-0024",
+      "Trustees-Recs-1841-1850-0025",
+      "Trustees-Recs-1841-1850-0026"
+    ],
+    "id": "QuarterlyReportofPresidentRyland184434"
+  },
+  {
+    "title": "Resignation of C.L. Cocke as Steward of the College",
+    "day": 4,
+    "month": 7,
+    "year": 1844,
+    "images": ["Trustees-Recs-1841-1850-0027", "Trustees-Recs-1841-1850-0028"],
+    "id": "ResignationofCLCockeasStewardoftheCollege184474"
+  },
+  {
+    "title": "Report of the Faculty, Robert Ryland to Board",
+    "day": 2,
+    "month": 11,
+    "year": 1844,
+    "images": [
+      "Trustees-Recs-1841-1850-0029",
+      "Trustees-Recs-1841-1850-0030",
+      "Trustees-Recs-1841-1850-0031"
+    ],
+    "id": "ReportoftheFacultyRobertRylandtoBoard1844112"
+  },
+  {
+    "title": "Report on increase of professors",
+    "day": 26,
+    "month": 7,
+    "year": 1845,
+    "images": ["Trustees-Recs-1841-1850-0032", "Trustees-Recs-1841-1850-0033"],
+    "id": "Reportonincreaseofprofessors1845726"
+  },
+  {
+    "title": "George F. Adams to James B. Taylor",
+    "day": 12,
+    "month": 9,
+    "year": 1845,
+    "images": [
+      "Trustees-Recs-1841-1850-0034",
+      "Trustees-Recs-1841-1850-0035",
+      "Trustees-Recs-1841-1850-0036"
+    ],
+    "id": "GeorgeFAdamstoJamesBTaylor1845912"
+  },
+  {
+    "title": "Report of the Faculty, Robert Ryland to Board",
+    "day": 4,
+    "month": 3,
+    "year": 1845,
+    "images": [
+      "Trustees-Recs-1841-1850-0037",
+      "Trustees-Recs-1841-1850-0038",
+      "Trustees-Recs-1841-1850-0039"
+    ],
+    "id": "ReportoftheFacultyRobertRylandtoBoard184534"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 9,
+    "month": 6,
+    "year": 1846,
+    "images": [
+      "Trustees-Recs-1841-1850-0040",
+      "Trustees-Recs-1841-1850-0041",
+      "Trustees-Recs-1841-1850-0042"
+    ],
+    "id": "QuarterlyReportofPresidentRyland184669"
+  },
+  {
+    "title": "Report of Committee on the Stewardship",
+    "day": 9,
+    "month": 6,
+    "year": 1846,
+    "images": ["Trustees-Recs-1841-1850-0043", "Trustees-Recs-1841-1850-0044"],
+    "id": "ReportofCommitteeontheStewardship184669"
+  },
+  {
+    "title": "Plan of the Stewardship",
+    "day": 29,
+    "month": 6,
+    "year": 1846,
+    "images": ["Trustees-Recs-1841-1850-0045", "Trustees-Recs-1841-1850-0046"],
+    "id": "PlanoftheStewardship1846629"
+  },
+  {
+    "title": "Articles of Agreement respecting the Stewardship of Richmond College, Aurelius L. Goff",
+    "month": 7,
+    "year": 1846,
+    "images": [
+      "Trustees-Recs-1841-1850-0047",
+      "Trustees-Recs-1841-1850-0048",
+      "Trustees-Recs-1841-1850-0049"
+    ],
+    "id": "ArticlesofAgreementrespectingtheStewardshipofRichmondCollegeAureliusLGoff18467"
+  },
+  {
+    "title": "Letter from C. L. Cocke",
+    "day": 30,
+    "month": 7,
+    "year": 1846,
+    "images": [
+      "Trustees-Recs-1841-1850-0050",
+      "Trustees-Recs-1841-1850-0051",
+      "Trustees-Recs-1841-1850-0052"
+    ],
+    "id": "LetterfromCLCocke1846730"
+  },
+  {
+    "title": "Resignation of J.B. Taylor as Secretary",
+    "day": 31,
+    "month": 7,
+    "year": 1846,
+    "images": ["Trustees-Recs-1841-1850-0053"],
+    "id": "ResignationofJBTaylorasSecretary1846731"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 8,
+    "month": 12,
+    "year": 1846,
+    "images": [
+      "Trustees-Recs-1841-1850-0054",
+      "Trustees-Recs-1841-1850-0055",
+      "Trustees-Recs-1841-1850-0056"
+    ],
+    "id": "QuarterlyReportofPresidentRyland1846128"
+  },
+  {
+    "title": "Report of Committee on General Agents Accounts and Subscriptions",
+    "day": 15,
+    "month": 12,
+    "year": 1846,
+    "images": ["Trustees-Recs-1841-1850-0057", "Trustees-Recs-1841-1850-0058"],
+    "id": "ReportofCommitteeonGeneralAgentsAccountsandSubscriptions18461215"
+  },
+  {
+    "title": "Copy of a letter to S.W. Allen from Thomas J. Evans, Secretary",
+    "day": 23,
+    "month": 12,
+    "year": 1846,
+    "images": ["Trustees-Recs-1841-1850-0059", "Trustees-Recs-1841-1850-0060"],
+    "id": "CopyofalettertoSWAllenfromThomasJEvansSecretary18461223"
+  },
+  {
+    "title": "Letter from S.W. Allen to Thomas J. Evans",
+    "day": 12,
+    "month": 1,
+    "year": 1847,
+    "images": ["Trustees-Recs-1841-1850-0061", "Trustees-Recs-1841-1850-0062"],
+    "id": "LetterfromSWAllentoThomasJEvans1847112"
+  },
+  {
+    "title": "Resignation of George Frederick Holmes",
+    "day": 1,
+    "month": 3,
+    "year": 1847,
+    "images": ["Trustees-Recs-1841-1850-0063", "Trustees-Recs-1841-1850-0064"],
+    "id": "ResignationofGeorgeFrederickHolmes184731"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 2,
+    "month": 3,
+    "year": 1847,
+    "images": [
+      "Trustees-Recs-1841-1850-0065",
+      "Trustees-Recs-1841-1850-0066",
+      "Trustees-Recs-1841-1850-0067"
+    ],
+    "id": "QuarterlyReportofPresidentRyland184732"
+  },
+  {
+    "title": "Annual Report of the President",
+    "day": 8,
+    "month": 6,
+    "year": 1847,
+    "images": [
+      "Trustees-Recs-1841-1850-0068",
+      "Trustees-Recs-1841-1850-0069",
+      "Trustees-Recs-1841-1850-0070"
+    ],
+    "id": "AnnualReportofthePresident184768"
+  },
+  {
+    "title": "Report of the General Agent, S.W. Allen",
+    "day": 8,
+    "month": 6,
+    "year": 1847,
+    "images": ["Trustees-Recs-1841-1850-0071", "Trustees-Recs-1841-1850-0072"],
+    "id": "ReportoftheGeneralAgentSWAllen184768"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 5,
+    "month": 12,
+    "year": 1848,
+    "images": [
+      "Trustees-Recs-1841-1850-0073",
+      "Trustees-Recs-1841-1850-0074",
+      "Trustees-Recs-1841-1850-0075"
+    ],
+    "id": "ReportofPresidentRyland1848125"
+  },
+  {
+    "title": "Report of President Ryland (blue papers, in two parts)",
+    "day": 2,
+    "month": 12,
+    "year": 1850,
+    "images": [
+      "Trustees-Recs-1841-1850-0076",
+      "Trustees-Recs-1841-1850-0077",
+      "Trustees-Recs-1841-1850-0078",
+      "Trustees-Recs-1841-1850-0079",
+      "Trustees-Recs-1841-1850-0080",
+      "Trustees-Recs-1841-1850-0081"
+    ],
+    "id": "ReportofPresidentRylandbluepapersintwoparts1850122"
+  },
+  {
+    "title": "Annual Report of President Ryland",
+    "day": 4,
+    "month": 3,
+    "year": 1851,
+    "images": ["Trustees-Recs-1851-1860-0001", "Trustees-Recs-1851-1860-0002"],
+    "id": "AnnualReportofPresidentRyland185134"
+  },
+  {
+    "title": "Report on Endowment and Organization",
+    "day": 5,
+    "month": 8,
+    "year": 1851,
+    "images": [
+      "Trustees-Recs-1851-1860-0003",
+      "Trustees-Recs-1851-1860-0004",
+      "Trustees-Recs-1851-1860-0005"
+    ],
+    "id": "ReportonEndowmentandOrganization185185"
+  },
+  {
+    "title": "Resignation and Report from E.T. Finch, Agent",
+    "day": 21,
+    "month": 8,
+    "year": 1851,
+    "images": ["Trustees-Recs-1851-1860-0006", "Trustees-Recs-1851-1860-0007"],
+    "id": "ResignationandReportfromETFinchAgent1851821"
+  },
+  {
+    "title": "Report of Committee Examining the Accounts of Robert Ryland",
+    "day": 4,
+    "month": 2,
+    "year": 1852,
+    "images": ["Trustees-Recs-1851-1860-0008", "Trustees-Recs-1851-1860-0009"],
+    "id": "ReportofCommitteeExaminingtheAccountsofRobertRyland185224"
+  },
+  {
+    "title": "Resolution on scholarships for the sons of J.B. Taylor",
+    "day": 2,
+    "month": 12,
+    "year": 1851,
+    "images": ["Trustees-Recs-1851-1860-0010", "Trustees-Recs-1851-1860-0011"],
+    "id": "ResolutiononscholarshipsforthesonsofJBTaylor1851122"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 2,
+    "month": 12,
+    "year": 1851,
+    "images": [
+      "Trustees-Recs-1851-1860-0012",
+      "Trustees-Recs-1851-1860-0013",
+      "Trustees-Recs-1851-1860-0014"
+    ],
+    "id": "QuarterlyReportofPresidentRyland1851122"
+  },
+  {
+    "title": "Payments for 1849-1850",
+    "images": ["Trustees-Recs-1851-1860-0015", "Trustees-Recs-1851-1860-0016"],
+    "id": "Paymentsfor18491850"
+  },
+  {
+    "title": "Payments of R.R. for 1850 & 51",
+    "images": ["Trustees-Recs-1851-1860-0017"],
+    "id": "PaymentsofRRfor185051"
+  },
+  {
+    "title": "President’s Accounts, Thomas J. Evans to Robert Ryland and response",
+    "day": 6,
+    "month": 2,
+    "year": 1852,
+    "images": ["Trustees-Recs-1851-1860-0018", "Trustees-Recs-1851-1860-0019"],
+    "id": "PresidentsAccountsThomasJEvanstoRobertRylandandresponse185226"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 2,
+    "month": 3,
+    "year": 1852,
+    "images": [
+      "Trustees-Recs-1851-1860-0020",
+      "Trustees-Recs-1851-1860-0021",
+      "Trustees-Recs-1851-1860-0022"
+    ],
+    "id": "QuarterlyReportofPresidentRyland185232"
+  },
+  {
+    "title": "Report of Committee on Change of President’s Residence, E. Kingsford",
+    "day": 2,
+    "month": 3,
+    "year": 1852,
+    "images": ["Trustees-Recs-1851-1860-0023", "Trustees-Recs-1851-1860-0024"],
+    "id": "ReportofCommitteeonChangeofPresidentsResidenceEKingsford185232"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 10,
+    "month": 6,
+    "year": 1852,
+    "images": ["Trustees-Recs-1851-1860-0025", "Trustees-Recs-1851-1860-0026"],
+    "id": "QuarterlyReportofPresidentRyland1852610"
+  },
+  {
+    "title": "Communication from the Faculty to called meeting of Trustees, signed by Lewis Turner",
+    "day": 17,
+    "month": 7,
+    "year": 1852,
+    "images": [
+      "Trustees-Recs-1851-1860-0027",
+      "Trustees-Recs-1851-1860-0028",
+      "Trustees-Recs-1851-1860-0029"
+    ],
+    "id": "CommunicationfromtheFacultytocalledmeetingofTrusteessignedbyLewisTurner1852717"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 7,
+    "month": 12,
+    "year": 1852,
+    "images": [
+      "Trustees-Recs-1851-1860-0030",
+      "Trustees-Recs-1851-1860-0031",
+      "Trustees-Recs-1851-1860-0032"
+    ],
+    "id": "QuarterlyReportofPresidentRyland1852127"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 1,
+    "month": 3,
+    "year": 1853,
+    "images": [
+      "Trustees-Recs-1851-1860-0033",
+      "Trustees-Recs-1851-1860-0034",
+      "Trustees-Recs-1851-1860-0035"
+    ],
+    "id": "QuarterlyReportofPresidentRyland185331"
+  },
+  {
+    "title": "President’s Report",
+    "month": 12,
+    "year": 1853,
+    "images": [
+      "Trustees-Recs-1851-1860-0036",
+      "Trustees-Recs-1851-1860-0037",
+      "Trustees-Recs-1851-1860-0038"
+    ],
+    "id": "PresidentsReport185312"
+  },
+  {
+    "title": "Communication from the Faculty, signed B. Puryear",
+    "day": 2,
+    "month": 12,
+    "year": 1853,
+    "images": [
+      "Trustees-Recs-1851-1860-0039",
+      "Trustees-Recs-1851-1860-0040",
+      "Trustees-Recs-1851-1860-0041"
+    ],
+    "id": "CommunicationfromtheFacultysignedBPuryear1850122"
+  },
+  {
+    "title": "Communication from Faculty, referred to committee on July 3, 1854",
+    "day": 7,
+    "month": 3,
+    "year": 1854,
+    "images": ["Trustees-Recs-1851-1860-0042", "Trustees-Recs-1851-1860-0043"],
+    "id": "CommunicationfromFacultyreferredtocommitteeonJuly31854185437"
+  },
+  {
+    "title": "Communication from B. Puryear",
+    "day": 6,
+    "month": 6,
+    "year": 1854,
+    "images": ["Trustees-Recs-1851-1860-0044", "Trustees-Recs-1851-1860-0045"],
+    "id": "CommunicationfromBPuryear185466"
+  },
+  {
+    "title": "Annual Report of President Ryland",
+    "day": 6,
+    "month": 6,
+    "year": 1854,
+    "images": [
+      "Trustees-Recs-1851-1860-0046",
+      "Trustees-Recs-1851-1860-0047",
+      "Trustees-Recs-1851-1860-0049"
+    ],
+    "id": "AnnualReportofPresidentRyland185466"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 5,
+    "month": 12,
+    "year": 1854,
+    "images": [
+      "Trustees-Recs-1851-1860-0049",
+      "Trustees-Recs-1851-1860-0050",
+      "Trustees-Recs-1851-1860-0051"
+    ],
+    "id": "ReportofPresidentRyland1854125"
+  },
+  {
+    "title": "Report of the Building Committee",
+    "day": 3,
+    "month": 2,
+    "year": 1855,
+    "images": [
+      "Trustees-Recs-1851-1860-0052",
+      "Trustees-Recs-1851-1860-0053",
+      "Trustees-Recs-1851-1860-0054",
+      "Trustees-Recs-1851-1860-0055"
+    ],
+    "id": "ReportoftheBuildingCommittee185523"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 3,
+    "month": 4,
+    "year": 1855,
+    "images": [
+      "Trustees-Recs-1851-1860-0056",
+      "Trustees-Recs-1851-1860-0057",
+      "Trustees-Recs-1851-1860-0058"
+    ],
+    "id": "QuarterlyReportofPresidentRyland185543"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 19,
+    "month": 6,
+    "year": 1855,
+    "images": [
+      "Trustees-Recs-1851-1860-0059",
+      "Trustees-Recs-1851-1860-0060",
+      "Trustees-Recs-1851-1860-0061"
+    ],
+    "id": "ReportofPresidentRyland1855619"
+  },
+  {
+    "title": "Report on Reorganization, signed A.M. Poindexter",
+    "month": 6,
+    "year": 1835,
+    "images": [
+      "Trustees-Recs-1851-1860-0062",
+      "Trustees-Recs-1851-1860-0063",
+      "Trustees-Recs-1851-1860-0064",
+      "Trustees-Recs-1851-1860-0065"
+    ],
+    "id": "ReportonReorganizationsignedAMPoindexter18356"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 4,
+    "month": 9,
+    "year": 1854,
+    "images": [
+      "Trustees-Recs-1851-1860-0066",
+      "Trustees-Recs-1851-1860-0067",
+      "Trustees-Recs-1851-1860-0068"
+    ],
+    "id": "ReportofPresidentRyland185494"
+  },
+  {
+    "title": "Quarterly Report of President Ryland",
+    "day": 4,
+    "month": 3,
+    "year": 1856,
+    "images": [
+      "Trustees-Recs-1851-1860-0069",
+      "Trustees-Recs-1851-1860-0070",
+      "Trustees-Recs-1851-1860-0071"
+    ],
+    "id": "QuarterlyReportofPresidentRyland185634"
+  },
+  {
+    "title": "Communication of President Ryland to Board",
+    "day": 18,
+    "month": 10,
+    "year": 1856,
+    "images": [
+      "Trustees-Recs-1851-1860-0072",
+      "Trustees-Recs-1851-1860-0073",
+      "Trustees-Recs-1851-1860-0074"
+    ],
+    "id": "CommunicationofPresidentRylandtoBoard18561018"
+  },
+  {
+    "title": "Regulations for Renting and Keeping Boarding Houses at Richmond College",
+    "day": 1,
+    "month": 11,
+    "year": 1856,
+    "images": [
+      "Trustees-Recs-1851-1860-0075",
+      "Trustees-Recs-1851-1860-0076",
+      "Trustees-Recs-1851-1860-0077"
+    ],
+    "id": "RegulationsforRentingandKeepingBoardingHousesatRichmondCollege1856111"
+  },
+  {
+    "title": "Treasurer’s Bond, signed Edwin Wortham and James Thomas Jr.",
+    "day": 9,
+    "month": 6,
+    "year": 1857,
+    "images": ["Trustees-Recs-1851-1860-0078", "Trustees-Recs-1851-1860-0079"],
+    "id": "TreasurersBondsignedEdwinWorthamandJamesThomasJr185769"
+  },
+  {
+    "title": "Damages to the Premises for 1857-1858 Session",
+    "day": 20,
+    "month": 6,
+    "year": 1858,
+    "images": ["Trustees-Recs-1851-1860-0080", "Trustees-Recs-1851-1860-0081"],
+    "id": "DamagestothePremisesfor18571858Session1858620"
+  },
+  {
+    "title": "Promissory Note, Thomas J. Evans",
+    "day": 30,
+    "month": 8,
+    "year": 1858,
+    "images": ["Trustees-Recs-1851-1860-0082", "Trustees-Recs-1851-1860-0083"],
+    "id": "PromissoryNoteThomasJEvans1858830"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 14,
+    "month": 6,
+    "year": 1858,
+    "images": [
+      "Trustees-Recs-1851-1860-0084",
+      "Trustees-Recs-1851-1860-0085",
+      "Trustees-Recs-1851-1860-0086"
+    ],
+    "id": "ReportofPresidentRyland1858614"
+  },
+  {
+    "title": "B. Puryear to Board",
+    "day": 15,
+    "month": 6,
+    "year": 1858,
+    "images": [
+      "Trustees-Recs-1851-1860-0087",
+      "Trustees-Recs-1851-1860-0088",
+      "Trustees-Recs-1851-1860-0089",
+      "Trustees-Recs-1851-1860-0090",
+      "Trustees-Recs-1851-1860-0091",
+      "Trustees-Recs-1851-1860-0092"
+    ],
+    "id": "BPuryeartoBoard1858615"
+  },
+  {
+    "title": "Committee report on annual appropriation to professors",
+    "day": 13,
+    "month": 7,
+    "year": 1858,
+    "images": ["Trustees-Recs-1851-1860-0093", "Trustees-Recs-1851-1860-0094"],
+    "id": "Committeereportonannualappropriationtoprofessors1858713"
+  },
+  {
+    "title": "Committee report on buildings and grounds",
+    "day": 24,
+    "month": 11,
+    "year": 1858,
+    "images": [
+      "Trustees-Recs-1851-1860-0095",
+      "Trustees-Recs-1851-1860-0096",
+      "Trustees-Recs-1851-1860-0097"
+    ],
+    "id": "Committeereportonbuildingsandgrounds18581124"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 7,
+    "month": 12,
+    "year": 1858,
+    "images": [
+      "Trustees-Recs-1851-1860-0098",
+      "Trustees-Recs-1851-1860-0099",
+      "Trustees-Recs-1851-1860-0100"
+    ],
+    "id": "ReportofPresidentRyland1858127"
+  },
+  {
+    "title": "Wm. G. Strange to J.B. Jeter and B.S. Manly",
+    "day": 11,
+    "month": 3,
+    "year": 1859,
+    "images": [
+      "Trustees-Recs-1851-1860-0101",
+      "Trustees-Recs-1851-1860-0102",
+      "Trustees-Recs-1851-1860-0103"
+    ],
+    "id": "WmGStrangetoJBJeterandBSManly1859311"
+  },
+  {
+    "title": "Report of Committee on Discipline",
+    "day": 27,
+    "month": 1,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0104", "Trustees-Recs-1851-1860-0105"],
+    "id": "ReportofCommitteeonDiscipline1859127"
+  },
+  {
+    "title": "Resignation of Professor Sidney H. Owens Jr.",
+    "day": 10,
+    "month": 5,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0106", "Trustees-Recs-1851-1860-0107"],
+    "id": "ResignationofProfessorSidneyHOwensJr1859510"
+  },
+  {
+    "title": "Petition from Sidney H. Owens Jr. to be authorized as agent",
+    "day": 16,
+    "month": 5,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0108", "Trustees-Recs-1851-1860-0109"],
+    "id": "PetitionfromSidneyHOwensJrtobeauthorizedasagent18595"
+  },
+  {
+    "title": "Report of the Treasurer",
+    "day": 16,
+    "month": 5,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0110", "Trustees-Recs-1851-1860-0111"],
+    "id": "ReportoftheTreasurer1859516"
+  },
+  {
+    "title": "George E. Dabney letter to Board",
+    "day": 7,
+    "month": 6,
+    "year": 1859,
+    "images": [
+      "Trustees-Recs-1851-1860-0112",
+      "Trustees-Recs-1851-1860-0113",
+      "Trustees-Recs-1851-1860-0114"
+    ],
+    "id": "GeorgeEDabneylettertoBoard185967"
+  },
+  {
+    "title": "President’s Account",
+    "day": 7,
+    "month": 7,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0115", "Trustees-Recs-1851-1860-0116"],
+    "id": "PresidentsAccount185977"
+  },
+  {
+    "title": "Basil Manly Jr. to Robert Ryland",
+    "day": 16,
+    "month": 7,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0117", "Trustees-Recs-1851-1860-0118"],
+    "id": "BasilManlyJrtoRobertRyland1859716"
+  },
+  {
+    "title": "John A. Broadus to Robert Ryland",
+    "day": 15,
+    "month": 7,
+    "year": 1859,
+    "images": [
+      "Trustees-Recs-1851-1860-0119",
+      "Trustees-Recs-1851-1860-0120",
+      "Trustees-Recs-1851-1860-0121"
+    ],
+    "id": "JohnABroadustoRobertRyland1859715"
+  },
+  {
+    "title": "Report of Committee on Defining the President's Duties",
+    "day": 29,
+    "month": 8,
+    "year": 1859,
+    "images": [
+      "Trustees-Recs-1851-1860-0122",
+      "Trustees-Recs-1851-1860-0123",
+      "Trustees-Recs-1851-1860-0124"
+    ],
+    "id": "ReportofCommitteeonDefiningthePresidentsDuties1859829"
+  },
+  {
+    "title": "Supply order placed by Prof. Wm. G. Strange with J.F. Luhme & Co.",
+    "day": 15,
+    "month": 10,
+    "year": 1859,
+    "images": ["Trustees-Recs-1851-1860-0125"],
+    "id": "SupplyorderplacedbyProfWmGStrangewithJFLuhmeCo18591015"
+  },
+  {
+    "title": "Report of Committee on completing College edifice",
+    "day": 15,
+    "month": 12,
+    "year": 1859,
+    "images": [
+      "Trustees-Recs-1851-1860-0126",
+      "Trustees-Recs-1851-1860-0127",
+      "Trustees-Recs-1851-1860-0128"
+    ],
+    "id": "ReportofCommitteeoncompletingCollegeedifice18591215"
+  },
+  {
+    "title": "Approximate Statement of my Receipts & Expenditures, E. Adkins",
+    "images": ["Trustees-Recs-1851-1860-0129"],
+    "id": "ApproximateStatementofmyReceiptsExpendituresEAdkins"
+  },
+  {
+    "title": "Report of the Committee on Completing the Central Building",
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0130",
+      "Trustees-Recs-1851-1860-0131",
+      "Trustees-Recs-1851-1860-0132"
+    ],
+    "id": "ReportoftheCommitteeonCompletingtheCentralBuilding1860"
+  },
+  {
+    "title": "Report of the President, incomplete",
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0133",
+      "Trustees-Recs-1851-1860-0134",
+      "Trustees-Recs-1851-1860-0135"
+    ],
+    "id": "ReportofthePresidentincomplete1860"
+  },
+  {
+    "title": "W.G. Strange account, 1 1 1860; Report of Auditing Committee",
+    "day": 25,
+    "month": 7,
+    "year": 1861,
+    "images": [
+      "Trustees-Recs-1851-1860-0136",
+      "Trustees-Recs-1851-1860-0137",
+      "Trustees-Recs-1851-1860-0138"
+    ],
+    "id": "WGStrangeaccount111860ReportofAuditingCommittee1861725"
+  },
+  {
+    "title": "Report of President Ryland",
+    "day": 9,
+    "month": 1,
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0139",
+      "Trustees-Recs-1851-1860-0140",
+      "Trustees-Recs-1851-1860-0141"
+    ],
+    "id": "ReportofPresidentRyland186019"
+  },
+  {
+    "title": "J.F. Luhme & Co. to Prof. W.G. Strange",
+    "day": 10,
+    "month": 1,
+    "year": 1860,
+    "images": ["Trustees-Recs-1851-1860-0142"],
+    "id": "JFLuhmeCotoProfWGStrange1860110"
+  },
+  {
+    "title": "Report on Modern Languages, signed L.W. Seeley and L.R. Spilman",
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0143",
+      "Trustees-Recs-1851-1860-0144",
+      "Trustees-Recs-1851-1860-0145"
+    ],
+    "id": "ReportonModernLanguagessignedLWSeeleyandLRSpilman"
+  },
+  {
+    "title": "A.H. Slocomb letter resigning tutorship of Academic Department, RC",
+    "day": 16,
+    "month": 5,
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0146",
+      "Trustees-Recs-1851-1860-0147",
+      "Trustees-Recs-1851-1860-0148"
+    ],
+    "id": "AHSlocombletterresigningtutorshipofAcademicDepartmentRC1860516"
+  },
+  {
+    "title": "Annual Report of President Ryland",
+    "day": 12,
+    "month": 6,
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0149",
+      "Trustees-Recs-1851-1860-0150",
+      "Trustees-Recs-1851-1860-0151"
+    ],
+    "id": "AnnualReportofPresidentRyland1860612"
+  },
+  {
+    "title": "A.J. Coons to A.M. Poindexter",
+    "day": 24,
+    "month": 12,
+    "year": 1860,
+    "images": [
+      "Trustees-Recs-1851-1860-0152",
+      "Trustees-Recs-1851-1860-0153",
+      "Trustees-Recs-1851-1860-0154"
+    ],
+    "id": "AJCoonstoAMPoindexter18601224"
+  },
+  {
+    "title": "Letter of resignation of Professor Wm. P. Louthan",
+    "day": 9,
+    "month": 1,
+    "year": 1861,
+    "images": [
+      "Trustees-Recs-1861-1870-0001",
+      "Trustees-Recs-1861-1870-0002",
+      "Trustees-Recs-1861-1870-0003"
+    ],
+    "id": "LetterofresignationofProfessorWmPLouthan186119"
+  },
+  {
+    "title": "Statement of funds received by President Ryland",
+    "day": 23,
+    "month": 7,
+    "year": 1861,
+    "images": ["Trustees-Recs-1861-1870-0004", "Trustees-Recs-1861-1870-0005"],
+    "id": "StatementoffundsreceivedbyPresidentRyland1861723"
+  },
+  {
+    "title": "Auditing Committee Report on Account of Lewis Turner, Faculty Treasurer",
+    "day": 25,
+    "month": 7,
+    "year": 1861,
+    "images": ["Trustees-Recs-1861-1870-0006", "Trustees-Recs-1861-1870-0007"],
+    "id": "AuditingCommitteeReportonAccountofLewisTurnerFacultyTreasurer1861725"
+  },
+  {
+    "title": "L.R. Spilman Account for 1858-1861 and Auditing Committee Report",
+    "day": 25,
+    "month": 7,
+    "year": 1861,
+    "images": [
+      "Trustees-Recs-1861-1870-0008",
+      "Trustees-Recs-1861-1870-0009-0010",
+      "Trustees-Recs-1861-1870-00011"
+    ],
+    "id": "LRSpilmanAccountfor18581861andAuditingCommitteeReport1861725"
+  },
+  {
+    "title": "Auditing Committee Report on Treasurer Edwin Wortham",
+    "day": 16,
+    "month": 8,
+    "year": 1862,
+    "images": ["Trustees-Recs-1861-1870-0012", "Trustees-Recs-1861-1870-0013"],
+    "id": "AuditingCommitteeReportonTreasurerEdwinWortham1862816"
+  },
+  {
+    "title": "Annual Report of Treasurer Edwin Wortham",
+    "day": 16,
+    "month": 8,
+    "year": 1862,
+    "images": ["Trustees-Recs-1861-1870-0014", "Trustees-Recs-1861-1870-0015"],
+    "id": "AnnualReportofTreasurerEdwinWortham1862816"
+  },
+  {
+    "title": "Report of President Ryland",
+    "year": 1862,
+    "images": [
+      "Trustees-Recs-1861-1870-0016",
+      "Trustees-Recs-1861-1870-0017",
+      "Trustees-Recs-1861-1870-0018"
+    ],
+    "id": "ReportofPresidentRyland1862"
+  },
+  {
+    "title": "Opinion of Hon. Alex R. Holladay on propriety of selling certain stocks",
+    "day": 29,
+    "month": 11,
+    "year": 1862,
+    "images": ["Trustees-Recs-1861-1870-0019", "Trustees-Recs-1861-1870-0020"],
+    "id": "OpinionofHonAlexRHolladayonproprietyofsellingcertainstocks18621129"
+  },
+  {
+    "title": "Annual Report Auditing Committee and Treasurer E. Wortham",
+    "day": 6,
+    "month": 6,
+    "year": 1863,
+    "images": [
+      "Trustees-Recs-1861-1870-0021",
+      "Trustees-Recs-1861-1870-0022",
+      "Trustees-Recs-1861-1870-0023",
+      "Trustees-Recs-1861-1870-0024"
+    ],
+    "id": "AnnualReportAuditingCommitteeandTreasurerEWortham186366"
+  },
+  {
+    "title": "Report of Treasurer Wortham of Balance",
+    "day": 3,
+    "month": 4,
+    "year": 1865,
+    "images": ["Trustees-Recs-1861-1870-0025", "Trustees-Recs-1861-1870-0026"],
+    "id": "ReportofTreasurerWorthamofBalance186543"
+  },
+  {
+    "title": "A.M. Poindexter letter to Board",
+    "day": 18,
+    "month": 6,
+    "year": 1866,
+    "images": ["Trustees-Recs-1861-1870-0027", "Trustees-Recs-1861-1870-0028"],
+    "id": "AMPoindexterlettertoBoard1866618"
+  },
+  {
+    "title": "Resignation letter of Robert Ryland",
+    "day": 23,
+    "month": 3,
+    "year": 1866,
+    "images": [
+      "Trustees-Recs-1861-1870-0029",
+      "Trustees-Recs-1861-1870-0030",
+      "Trustees-Recs-1861-1870-0031"
+    ],
+    "id": "ResignationletterofRobertRyland1866323"
+  },
+  {
+    "title": "Board resolutions on Ryland, having accepted his resignation",
+    "day": 20,
+    "month": 6,
+    "year": 1866,
+    "images": [
+      "Trustees-Recs-1861-1870-0032",
+      "Trustees-Recs-1861-1870-0033",
+      "Trustees-Recs-1861-1870-0034"
+    ],
+    "id": "BoardresolutionsonRylandhavingacceptedhisresignation1866620"
+  },
+  {
+    "title": "Edwin Wortham, Treasurer, letter to Board",
+    "day": 23,
+    "month": 6,
+    "year": 1866,
+    "images": ["Trustees-Recs-1861-1870-0035", "Trustees-Recs-1861-1870-0036"],
+    "id": "EdwinWorthamTreasurerlettertoBoard1866623"
+  },
+  {
+    "title": "Report of Committee on Organization of College, recommendation of election to faculty of John Hart, Crawford Toy, H.H. Harris and Bennett Puryear",
+    "month": 7,
+    "year": 1866,
+    "images": [
+      "Trustees-Recs-1861-1870-0037",
+      "Trustees-Recs-1861-1870-0038",
+      "Trustees-Recs-1861-1870-0039"
+    ],
+    "id": "ReportofCommitteeonOrganizationofCollegerecommendationofelectiontofacultyofJohnHartCrawfordToyHHHarrisandBennettPuryear18667"
+  },
+  {
+    "title": "B. Puryear accepts appointment",
+    "day": 16,
+    "month": 7,
+    "year": 1866,
+    "images": [
+      "Trustees-Recs-1861-1870-0040",
+      "Trustees-Recs-1861-1870-0041",
+      "Trustees-Recs-1861-1870-0042"
+    ],
+    "id": "BPuryearacceptsappointment1866716"
+  },
+  {
+    "title": "J. Hart declines appointment",
+    "month": 7,
+    "year": 1866,
+    "images": ["Trustees-Recs-1861-1870-0043", "Trustees-Recs-1861-1870-0044"],
+    "id": "JHartdeclinesappointment18667"
+  },
+  {
+    "title": "Ed. Harrison accepts appointment",
+    "day": 9,
+    "month": 8,
+    "year": 1866,
+    "images": ["Trustees-Recs-1861-1870-0045", "Trustees-Recs-1861-1870-0046"],
+    "id": "EdHarrisonacceptsappointment186689"
+  },
+  {
+    "title": "Tiberius Gracchus Jones accepts election as president, professor",
+    "day": 21,
+    "month": 9,
+    "year": 1866,
+    "images": [
+      "Trustees-Recs-1861-1870-0047",
+      "Trustees-Recs-1861-1870-0048",
+      "Trustees-Recs-1861-1870-0049"
+    ],
+    "id": "TiberiusGracchusJonesacceptselectionaspresidentprofessor1866921"
+  },
+  {
+    "title": "Final account of Robert Ryland’s finances",
+    "day": 12,
+    "month": 11,
+    "year": 1866,
+    "images": ["Trustees-Recs-1861-1870-0050", "Trustees-Recs-1861-1870-0051"],
+    "id": "FinalaccountofRobertRylandsfinances18661112"
+  },
+  {
+    "title": "Report of committee on establishing professorship of modern languages",
+    "year": 1867,
+    "images": [
+      "Trustees-Recs-1861-1870-0052",
+      "Trustees-Recs-1861-1870-0053",
+      "Trustees-Recs-1861-1870-0054"
+    ],
+    "id": "Reportofcommitteeonestablishingprofessorshipofmodernlanguages1867"
+  },
+  {
+    "title": "Circular to Colleges of the United States on the Subject of Military Education",
+    "day": 20,
+    "month": 5,
+    "year": 1867,
+    "images": [
+      "Trustees-Recs-1861-1870-0055",
+      "Trustees-Recs-1861-1870-0056",
+      "Trustees-Recs-1861-1870-0057",
+      "Trustees-Recs-1861-1870-0058",
+      "Trustees-Recs-1861-1870-0059"
+    ],
+    "id": "CirculartoCollegesoftheUnitedStatesontheSubjectofMilitaryEducation1867520"
+  },
+  {
+    "title": "Note",
+    "day": 29,
+    "month": 5,
+    "year": 1867,
+    "images": ["Trustees-Recs-1861-1870-0060", "Trustees-Recs-1861-1870-0061"],
+    "id": "Note1867529"
+  },
+  {
+    "title": "C.T. Bailey to Robert Ryland, referred to faculty",
+    "day": 17,
+    "month": 6,
+    "year": 1867,
+    "images": ["Trustees-Recs-1861-1870-0062", "Trustees-Recs-1861-1870-0063"],
+    "id": "CTBaileytoRobertRylandreferredtofaculty1867617"
+  },
+  {
+    "title": "Ed. B. Smith, Secretary of the faculty, to Board, with resolution to employ assistant instructor",
+    "day": 29,
+    "month": 6,
+    "year": 1867,
+    "images": ["Trustees-Recs-1861-1870-0064", "Trustees-Recs-1861-1870-0065"],
+    "id": "EdBSmithSecretaryofthefacultytoBoardwithresolutiontoemployassistantinstructor1867629"
+  },
+  {
+    "title": "Ed. B. Smith to Board",
+    "day": 16,
+    "month": 9,
+    "year": 1867,
+    "images": [
+      "Trustees-Recs-1861-1870-0066",
+      "Trustees-Recs-1861-1870-0067",
+      "Trustees-Recs-1861-1870-0068"
+    ],
+    "id": "EdBSmithtoBoard1867916"
+  },
+  {
+    "title": "Financial notes",
+    "year": 1867,
+    "images": ["Trustees-Recs-1861-1870-0069", "Trustees-Recs-1861-1870-0070"],
+    "id": "Financialnotes1867"
+  },
+  {
+    "title": "Report of Committee on disposition of buildings and lots, signed J.B. Taylor",
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0071",
+      "Trustees-Recs-1861-1870-0072",
+      "Trustees-Recs-1861-1870-0073"
+    ],
+    "id": "ReportofCommitteeondispositionofbuildingsandlotssignedJBTaylor1868"
+  },
+  {
+    "title": "Report of Committee on financial condition",
+    "month": 1,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0074",
+      "Trustees-Recs-1861-1870-0075",
+      "Trustees-Recs-1861-1870-0076"
+    ],
+    "id": "ReportofCommitteeonfinancialcondition18681"
+  },
+  {
+    "title": "Edward B. Smith to Board regarding commercial course",
+    "day": 16,
+    "month": 6,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0077",
+      "Trustees-Recs-1861-1870-0078",
+      "Trustees-Recs-1861-1870-0079"
+    ],
+    "id": "EdwardBSmithtoBoardregardingcommercialcourse1868616"
+  },
+  {
+    "title": "B. Puryear to Board regarding expenses",
+    "day": 27,
+    "month": 4,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0080",
+      "Trustees-Recs-1861-1870-0081",
+      "Trustees-Recs-1861-1870-0082"
+    ],
+    "id": "BPuryeartoBoardregardingexpenses1868427"
+  },
+  {
+    "title": "Faculty to Board regarding incidental expenses",
+    "day": 20,
+    "month": 5,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0083",
+      "Trustees-Recs-1861-1870-0084",
+      "Trustees-Recs-1861-1870-0085"
+    ],
+    "id": "FacultytoBoardregardingincidentalexpenses1868520"
+  },
+  {
+    "title": "Robert Ryland to Board, resignation as a trustee",
+    "day": 25,
+    "month": 5,
+    "year": 1868,
+    "images": ["Trustees-Recs-1861-1870-0086", "Trustees-Recs-1861-1870-0087"],
+    "id": "RobertRylandtoBoardresignationasatrustee1868525"
+  },
+  {
+    "title": "Report of President Jones",
+    "day": 16,
+    "month": 6,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0088",
+      "Trustees-Recs-1861-1870-0089",
+      "Trustees-Recs-1861-1870-0090"
+    ],
+    "id": "ReportofPresidentJones1868616"
+  },
+  {
+    "title": "A.M. Poindexter to Board, agent's report",
+    "day": 18,
+    "month": 6,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0091",
+      "Trustees-Recs-1861-1870-0092",
+      "Trustees-Recs-1861-1870-0093"
+    ],
+    "id": "AMPoindextertoBoardagentsreport1868618"
+  },
+  {
+    "title": "Statement accompanying agent's report",
+    "day": 18,
+    "month": 6,
+    "year": 1868,
+    "images": ["Trustees-Recs-1861-1870-0094", "Trustees-Recs-1861-1870-0095"],
+    "id": "Statementaccompanyingagentsreport1868618"
+  },
+  {
+    "title": "Report of Committee on plan of Executive Committee, indefinitely postponed",
+    "day": 23,
+    "month": 6,
+    "year": 1868,
+    "images": [
+      "Trustees-Recs-1861-1870-0096",
+      "Trustees-Recs-1861-1870-0097",
+      "Trustees-Recs-1861-1870-0098"
+    ],
+    "id": "ReportofCommitteeonplanofExecutiveCommitteeindefinitelypostponed1868623"
+  },
+  {
+    "title": "Report of student committee seeking permission to erect a chapel",
+    "day": 30,
+    "month": 6,
+    "year": 1868,
+    "images": ["Trustees-Recs-1861-1870-0099", "Trustees-Recs-1861-1870-0100"],
+    "id": "Reportofstudentcommitteeseekingpermissiontoerectachapel1868630"
+  },
+  {
+    "title": "J.L.M. Curry accepts appointment",
+    "day": 13,
+    "month": 7,
+    "year": 1868,
+    "images": ["Trustees-Recs-1861-1870-0101", "Trustees-Recs-1861-1870-0102"],
+    "id": "JLMCurryacceptsappointment1868713"
+  },
+  {
+    "title": "By-Laws of Richmond College",
+    "images": [
+      "Trustees-Recs-1861-1870-0103",
+      "Trustees-Recs-1861-1870-0104",
+      "Trustees-Recs-1861-1870-0105"
+    ],
+    "id": "ByLawsofRichmondCollege"
+  },
+  {
+    "title": "T.G. Jones resignation",
+    "day": 21,
+    "month": 4,
+    "year": 1869,
+    "images": [
+      "Trustees-Recs-1861-1870-0106",
+      "Trustees-Recs-1861-1870-0107",
+      "Trustees-Recs-1861-1870-0108"
+    ],
+    "id": "TGJonesresignation1869421"
+  },
+  {
+    "title": "Treasurer's Report, Edwin Wortham",
+    "day": 1,
+    "month": 6,
+    "year": 1869,
+    "images": [
+      "Trustees-Recs-1861-1870-0109",
+      "Trustees-Recs-1861-1870-0110",
+      "Trustees-Recs-1861-1870-0111"
+    ],
+    "id": "TreasurersReportEdwinWortham186961"
+  },
+  {
+    "title": "Treasurer's Report, Edwin Wortham",
+    "day": 12,
+    "month": 4,
+    "year": 1869,
+    "images": ["Trustees-Recs-1861-1870-0112", "Trustees-Recs-1861-1870-0113"],
+    "id": "TreasurersReportEdwinWortham1869412"
+  },
+  {
+    "title": "President's Report",
+    "day": 15,
+    "month": 6,
+    "year": 1869,
+    "images": [
+      "Trustees-Recs-1861-1870-0114",
+      "Trustees-Recs-1861-1870-0115",
+      "Trustees-Recs-1861-1870-0116",
+      "Trustees-Recs-1861-1870-0117",
+      "Trustees-Recs-1861-1870-0118",
+      "Trustees-Recs-1861-1870-0119",
+      "Trustees-Recs-1861-1870-0120",
+      "Trustees-Recs-1861-1870-0121",
+      "Trustees-Recs-1861-1870-0122"
+    ],
+    "id": "PresidentsReport1869615"
+  },
+  {
+    "title": "A.M. Poindexter, agent's report",
+    "day": 15,
+    "month": 6,
+    "year": 1869,
+    "images": [
+      "Trustees-Recs-1861-1870-0123",
+      "Trustees-Recs-1861-1870-0124",
+      "Trustees-Recs-1861-1870-0125"
+    ],
+    "id": "AMPoindexteragentsreport1869615"
+  },
+  {
+    "title": "Statement for 1868-1869 accompanying report of agent Poindexter",
+    "images": ["Trustees-Recs-1861-1870-0126"],
+    "id": "Statementfor18681869accompanyingreportofagentPoindexter"
+  },
+  {
+    "title": "Report of treasurer on tuition receipts and faculty disbursements",
+    "day": 15,
+    "month": 6,
+    "year": 1869,
+    "images": ["Trustees-Recs-1861-1870-0127", "Trustees-Recs-1861-1870-0128"],
+    "id": "Reportoftreasurerontuitionreceiptsandfacultydisbursements1869615"
+  }
+]

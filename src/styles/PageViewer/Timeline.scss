@@ -1,0 +1,100 @@
+@import '../Variables.scss';
+
+#timeline {
+  width: 400px;
+  height: 100vh;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  z-index: 100;
+  margin-left: -300px;
+  pointer-events: none;
+
+  line {
+    stroke: #889;
+    stroke-width: 1px;
+  }
+  
+  text {
+    fill: black;
+    font-size: 16px;
+    pointer-events: none;
+    font-weight: bold;
+
+    &.text-halo {
+      stroke: $color-background;
+      stroke-width: 2px;
+    }
+  }
+
+  .meeting-label {
+
+    text {
+      visibility: hidden;
+      font-size: 12px;
+      font-weight: normal;
+
+      &.selected {
+        visibility: visible;
+      }
+    }
+  }
+  .meeting-circle {
+    fill: #556;
+    fill-opacity: 0.5;
+    stroke: $color-background;
+    stroke-width: 0;
+    pointer-events: auto;
+
+    &.selected {
+      position: relative;
+      fill: $color-interactive;
+      fill-opacity: 1;
+      
+      // + .halo {
+      //   fill-opacity: 0.5;
+      // }
+    }
+    
+    &:hover {
+      fill: $color-interactive;
+      
+      &~text {
+        visibility: visible;
+      }
+      + rect {
+        position: relative;
+        fill-opacity: 1;
+        stroke: silver
+      }
+    }
+
+
+  }
+
+  .text-background {
+    fill: white;
+    fill-opacity: 0;
+    stroke-width: 0.5;
+    pointer-events: auto;
+    stroke: transparent;
+
+    &.selected {
+      position: relative;
+      fill-opacity: 1;
+      stroke: silver
+      
+      // + .halo {
+      //   fill-opacity: 0.5;
+      // }
+    }
+  
+
+  }
+  .meeting-halo {
+  
+    &.selected {
+      fill: $color-interactive;
+      fill-opacity: 0.3;
+    }
+  }
+}

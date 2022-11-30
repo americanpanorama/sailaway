@@ -1,0 +1,93 @@
+@import "./Variables.scss";
+
+.App {
+  position: relative;
+
+  > header {
+    height: 110px;
+    width: calc(100vw - 2rem);
+    padding: 0 1rem;
+    color: var(--light-color);
+    text-align: center;
+    background-color: white;
+    border-bottom: 1px solid silver;
+    z-index: 999999999;
+
+    h1 {
+      display: inline;
+      margin: 0;
+      font-family: 'Roboto Slab', serif;
+      font-weight: bold;
+      font-size: clamp(1.1em, 3vw, 1.8em);
+      line-height: 50px;
+
+      span {
+        font-size: 0.8em;
+        color: $color-text-light;
+      }
+
+      &.ur {
+        display: none;
+      } 
+    }
+
+    a {
+      position: relative;
+      margin: 0 30px;
+      color: var(--light-color);
+      text-decoration: none;
+      border: 3px solid transparent;
+
+      &:hover {
+        color: var(--accent-color);
+      }
+      &:after,
+      &.active:after {
+        position: absolute;
+        content: "";
+        bottom: calc(50% - 0.75em);
+        height: 3px;
+        width: 0;
+        left: 50%;
+        background: $color-interactive;
+        transition: width 0.3s ease 0s, left 0.3s ease 0s;
+      }
+
+      &:hover:after {
+        width: 100%;
+        left: 0;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .App > header {
+    position: relative;
+    top: auto;
+    height: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h1 {
+      line-height: 50px;
+
+      &.ur {
+        display: inline;
+      }
+    }
+
+    nav {
+
+      a {
+        margin-right: 0;
+        text-align: right;
+        font-size: 1em;
+        text-decoration: none;
+        line-height: 50px;
+        cursor: pointer;
+      }
+    }
+  }
+}

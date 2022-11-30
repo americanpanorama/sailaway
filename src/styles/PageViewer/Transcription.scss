@@ -1,0 +1,477 @@
+@import "../Variables.scss";
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+}
+
+.transcription {
+  line-height: 1.6;
+  position: relative;
+  overflow-x: visible;
+  padding: 0 50px 0 100px;
+
+  .prayer {
+    text-align: center;
+  }
+
+  .ditto {
+    font-size: 0;
+    &:after {
+      content: '"';
+      visibility: visible;
+      font-size: 16px;
+    }
+  }
+
+  .tripledSize {
+    font-size: 3em;
+  }
+  .tripledLineHeight {
+    line-height: 4.8;
+  }
+
+  ol {
+    list-style-position: inside;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  aside {
+    @extend %type-sansserif;
+    position: absolute;
+    left: 15px;
+    width: 70px;
+    font-size: 0.8em;
+    line-height: 1.1;
+  }
+
+  .page-point {
+    position: absolute;
+    right: 1px;
+  }
+
+  .page-link {
+    position: absolute;
+    right: 5px;
+    height: 100%;
+    min-width: 30px;
+
+    .page-number {
+      position: sticky;
+      top: 20px;
+    }
+  }
+
+  div.presentListTwoCols {
+    display: flex;
+
+    ul {
+      margin-top: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      column-gap: 30px;
+    }
+  }
+
+  div.presentListThreeCols {
+    display: flex;
+
+    ul {
+      margin-top: 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      column-gap: 30px;
+    }
+  }
+
+  .bottomToTop {
+    transform: rotate(-90deg);
+    transform-origin: 10% 100%;
+    width: auto;
+  }
+
+  ol {
+    padding-left: 0;
+  }
+
+  dl {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  header {
+    display: block;
+    border: 0;
+    text-align: right !important;
+  }
+
+  footer {
+    background-color: transparent;
+    height: auto;
+    color: $color-text;
+    box-shadow: none;
+
+    div {
+      &.signature {
+        display: inline-block;
+        max-width: 50%;
+        margin: 10px 20px;
+        vertical-align: top;
+      }
+    }
+
+    &.rightStacked {
+      div {
+        &.signature {
+          display: block;
+          text-align: right;
+          max-width: 100%;
+        }
+      }
+    }
+  }
+
+  section {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dotted #444;
+  }
+
+  .leading {
+    max-width: 40em;
+    padding: 0;
+
+    span:first-child {
+      padding-right: 0.33em;
+      padding-bottom: 5px;
+    }
+
+    span + span {
+      float: right;
+      padding-left: 0.33em;
+    }
+  }
+
+  .leadingDots {
+    max-width: 40em;
+    padding: 0;
+    overflow: hidden;
+
+    background-image: radial-gradient(circle, currentcolor 1px, transparent 1.5px);
+    background-position: bottom;
+    background-size: 1ex 4.5px;
+    background-repeat: space no-repeat;
+    content: "";
+    span:first-child {
+      padding-right: 0.33em;
+      padding-bottom: 5px;
+      background: $color-background;
+    }
+
+    span + span {
+      float: right;
+      padding-left: 0.33em;
+      background: $color-background;
+    }
+  }
+
+
+
+  .amountRight {
+    span.amount {
+      float: right;
+    }
+  }
+
+  td.numeric {
+    text-align: right;
+  }
+
+  hr.short {
+    text-align: center;
+    width: 30%;
+  }
+}
+
+.pencil {
+  color: #888;
+}
+
+.page {
+  margin: 0 5px;
+}
+
+.page::before {
+  content: "[page ";
+}
+
+.page::after {
+  content: "]";
+}
+
+.later_internal_reference {
+  color: grey;
+  text-align: right;
+}
+
+#bylaws h2,
+#bylaws h3,
+#bylaws h4,
+#bylaws h5 {
+  text-decoration: underline;
+}
+
+#bylaws h5 {
+  text-align: left;
+}
+
+li {
+  .first,
+  &.first {
+    list-style-type: "1st ";
+  }
+  .second,
+  &.second {
+    list-style-type: "2nd ";
+  }
+  .third,
+  &.third {
+    list-style-type: "3rd ";
+  }
+  .fourth,
+  &.fourth {
+    list-style-type: "4th ";
+  }
+  .fifth,
+  &.fifth {
+    list-style-type: "5th ";
+  }
+  .sixth,
+  &.sixth {
+    list-style-type: "6th ";
+  }
+  .resolved1,
+  &.resolved1 {
+    list-style-type: "Resolved 1 ";
+  }
+}
+
+table#financialreport18680113 {
+  td {
+    &:nth-child(2),
+    &:nth-child(3) {
+      text-align: right;
+    }
+  }
+}
+
+#honoraryDegrees {
+  margin-left: -110px;
+  table {
+    width: 100%;
+
+    td {
+      &:first-child {
+        text-align: center;
+      }
+      &:nth-child(2) {
+        text-align: right;
+
+        &.ditto {
+          padding-right: 15px;
+        }
+      }
+      &.ditto {
+        font-size: 0;
+        &:after {
+          content: '"';
+          visibility: visible;
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
+
+#graduates {
+  dl {
+    display: grid;
+    grid-template-columns: auto 40px;
+    position: relative;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid black;
+    }
+
+    dt {
+      grid-column: 1 / span 1;
+      margin-left: 30px;
+      &.am {
+        &:before {
+          content: "x";
+          position: absolute;
+          left: 10px;
+        }
+      }
+    }
+
+    dd {
+      grid-column: 3 / span 1;
+      text-align: center;
+
+      &.ditto {
+        visibility: hidden;
+        &:before {
+          content: '"';
+          visibility: visible;
+        }
+      }
+    }
+  }
+}
+
+#trustees {
+  .circled {
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+
+  .circled_top {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+
+  .circled_bottom {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+}
+
+#index dl {
+  display: grid;
+  grid-template-columns: auto max(150px);
+
+  dt {
+    grid-column: 1 / span 1;
+  }
+
+  dd {
+    margin: 0;
+    grid-column: 2 / span 1;
+    text-align: right;
+    white-space: nowrap;
+  }
+}
+
+table#stockList1860,
+table#stockList1861 {
+  caption {
+    text-align: left;
+  }
+
+  tr {
+    & > :first-child {
+      text-align: right;
+    }
+
+    & > :last-child {
+      padding-left: 10px;
+    }
+  }
+}
+
+li {
+  margin: 10px 0;
+}
+
+#byLaws,
+.bylaws {
+  li {
+    list-style-position: inside;
+    text-align: center;
+    h4 {
+      margin: 0;
+      display: inline-block;
+    }
+
+    h5 {
+      margin: 0;
+      display: inline-block;
+      text-align: left;
+    }
+
+    p {
+      text-align: left;
+    }
+    li {
+      text-align: left;
+    }
+
+    aside {
+      text-align: left;
+    }
+  }
+}
+
+#byLaws {
+  h5 {
+    border-bottom: 1px solid black;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  #pageViewer {
+
+    .transcription {
+      padding-left: 40px;
+
+      aside {
+        position: absolute;
+        left: 15px;
+        width: 70px;
+        font-size: 0.8em;
+        line-height: 1.1;
+        text-indent: -9999px;
+
+        &::before {
+          content: "☞";
+          position: absolute;
+          color: $color-interactive;
+          left: 0px;
+          text-indent: 0;
+          font-size: 1.5em;
+          font-weight: 400;
+        }
+        &:hover {
+          text-indent: 0px;
+          background-color: white;
+          border-radius: 5px;
+          padding: 2px 5px;
+          border: 1px solid grey;
+          overflow: hidden;
+          z-index: 100;
+          width: auto;
+          max-width: 100px;
+
+          &::before {
+            content: "";
+          }
+        }
+      }
+    }
+  }
+}
