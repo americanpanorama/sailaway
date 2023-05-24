@@ -17,6 +17,7 @@ function PageViewer() {
 
   // the pages are offset by 28--i.e page 1 is 29/{z}/{x}/{y}.png
   const url = `//s3.amazonaws.com/dsl-general/sailaway/${page_num + 28}/{z}/{x}/{y}.png`;
+  //const url = `${process.env.PUBLIC_URL}/static/tiles/${page_num + 28}/{z}/{x}/{y}.png`;
   return (
     <div id='pageViewer'>
       {(media !== "desktop") && (
