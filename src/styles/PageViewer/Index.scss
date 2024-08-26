@@ -4,7 +4,7 @@
     position: relative;
     display: grid;
     grid-template-columns: 100vw;
-    grid-template-rows: 45px 40px calc(100vh - (111px + 45px + 40px + 46px + 40px)) 46px;
+    grid-template-rows: 45px calc(100vh - (111px + 40px + 45px + 40px)) 46px;
 
   header {
     position: relative;

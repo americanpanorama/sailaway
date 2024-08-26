@@ -5,8 +5,7 @@
 
   > header {
     height: 110px;
-    width: calc(100vw - 2rem);
-    padding: 0 1rem;
+    width: 100vw;
     color: var(--light-color);
     text-align: center;
     background-color: white;
@@ -81,7 +80,7 @@
     nav {
 
       a {
-        margin-right: 0;
+        margin-right: 20px;
         text-align: right;
         font-size: 1em;
         text-decoration: none;

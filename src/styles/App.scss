@@ -4,14 +4,23 @@ html {
   @extend %type-sansserif;
   color: $color-text;
   background-color: $color-footer-background;
+
 }
 
 body {
   background-color: $color-background;
 }
 
+#root {
+    max-height: 100vh;
+  max-height: 100svh;
+  overflow: hidden;
+}
+
 main {
     padding: 3rem 0 5rem 0;
+    max-height: calc(100vh - 110px - 45px - 8rem);
+    overflow-y: auto;
 
     p {
 

@@ -4,6 +4,7 @@
   margin: 10px auto;
   width: 90vw;
   max-width: 900px;
+  overflow-y: auto;
 
   #introAndControls {
     max-width: 600px;
@@ -23,10 +24,12 @@
         padding: 0 20px;
         width: 50%;
 
-        background-color: white;
-        &.active {
-          background-color: $color-interactive;
-          color: white;
+        
+        background-color: $color-interactive;
+        color: white;
+        &.active, &:hover {
+          background-color: white;
+          color: $color-interactive;
         }
       }
     }

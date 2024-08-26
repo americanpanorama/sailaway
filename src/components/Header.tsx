@@ -4,10 +4,12 @@ import '../styles/Header.scss';
 const Header = () => {
   
   return (
-    <header>
-      <div>
-        <img src={`${process.env.PUBLIC_URL}/static/masthead.png`} alt='masthead' />
-      </div>
+    <header
+      style={{
+        backgroundImage: `url(${process.env.PUBLIC_URL}/static/masthead.png)`,
+      }}
+    >
+      <div />
       <nav>
         <NavLink to='/'>Collection</NavLink>
         <NavLink to='/about'>About</NavLink>
