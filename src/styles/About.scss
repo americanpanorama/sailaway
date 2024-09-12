@@ -1,9 +1,0 @@
-@import './Variables.scss';
-
-.longishform {
-  @extend %intro-copy;
-
-  p {
-    line-height: $open-leading;
-  }
-}
