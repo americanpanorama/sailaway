@@ -7,13 +7,12 @@ export const HeaderContainer = styled.header`
   width: 100vw;
   color: black;
   text-align: center;
-  background-color: white;
   border-bottom: 1px solid silver;
   z-index: 999999999;
   background-image: url('/maritimejournal/static/masthead_mobile.jpg');
-
-
   background-repeat: no-repeat;
+  background-color: white;
+  background-position: center;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -40,7 +39,6 @@ export const HeaderContainer = styled.header`
       background: ${Constants.colorInteractive};
       transition: width 0.3s ease 0s, left 0.3s ease 0s;
     }
-
     &:hover:after {
       width: 100%;
       left: 0;
@@ -50,10 +48,12 @@ export const HeaderContainer = styled.header`
   @media${Constants.devices.tablet} {
     background-image: url('/maritimejournal/static/masthead_tablet.jpg');
     background-size: cover;
+    background-position: left;
   }
 
   @media ${Constants.devices.desktop} {
     background-image: linear-gradient(to right, transparent, 120px, rgba(255,255,255,0.6) 180px, rgba(255,255,255,0.2)), url('/maritimejournal/static/masthead_desktop.jpg');
+    background-size: auto 110px;
     flex-direction: row;
     position: relative;
     top: auto;
@@ -63,7 +63,6 @@ export const HeaderContainer = styled.header`
     align-items: center;
 
     h1 {
-
       &.ur {
         display: inline;
       }
@@ -84,6 +83,7 @@ export const HeaderContainer = styled.header`
 
 export const Title = styled.div`
   margin: 1em 0;
+
   h1 {
     color: #2e4e5e;
     display: inline;
@@ -109,6 +109,10 @@ export const Title = styled.div`
     margin: 0;
     font-size: clamp(0.8em, 2vw, 1.1em);
     line-height: 1;
+  }
+
+  h1, h2 {
+    text-shadow: 0px 0px 5px white;
   }
 
   @media ${Constants.devices.desktop} {
